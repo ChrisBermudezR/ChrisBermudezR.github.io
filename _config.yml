@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Christian Bermúdez-Rivas"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Biólogo M. Sc. Esp. SIG, 🇨🇴. Interesado en geografía, ecología espacial, biología de la conservación y el estudio de los océanos. #GIS #R #Python #Linux"
   location         : "Tumaco - Colombia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=es&user=otpqHHQAAAAJ"
+  email            : "chrisbermudezr@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Christian-Bermudez-Rivas"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "chrisbermudezr"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7363-7251"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/16998684/christian-berm%c3%badez-rivas
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "chrisbermudezr"
   vine             :
   weibo            :
   xing             :
