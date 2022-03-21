@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christian Bermúdez-Rivas"
 title_separator          : "-"
 name                     : &name "Christian Bermúdez-Rivas"
-description              : &description "personal description"
+description              : &description "Biólogo M. Sc. Esp. SIG, 🇨🇴. Interesado en geografía, ecología espacial, biología de la conservación y el estudio de los océanos. #GIS #R #Python #Linux"
 url                      : https://chrisbermudezr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : " ChrisBermudezR/ChrisBermudezR.github.io"
@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : chrisbermudezr
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  profile.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
