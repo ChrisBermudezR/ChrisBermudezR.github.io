@@ -77,8 +77,10 @@ Nariño, Colombia.
 Coordinador: Javier A. Simonetti. Facultad de Ciencias, Universidad de Chile, Santiago,
 Chile
 
+
 <iframe src="/files/paper2.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 You can download a PDF copy of my CV [here](/files/paper2.pdf).
+
 
 <img src="/images/Banner05.png" style="width: 100%" />
