@@ -5,12 +5,12 @@ title: "Conferencias"
 ### 2021
 * **International Congress Harmful Algae 2021** *Virtual Attendance*.
 
-<iframe src="/files/HABs.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-Descarga una copia en PDF [aquí](/files/HABs.pdf).
-
 Exposición tipo poster:
   * Early HABs species detection in the Tumaco Bay -Colombia
+
+  <iframe src="/files/HABs.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+Descarga una copia en PDF [aquí](/files/HABs.pdf).
 ### 2019
 
 * **XVII Seminario Nacional de Ciencias y Tecnologías del Mar**. *Barranquilla*, Colombia.
