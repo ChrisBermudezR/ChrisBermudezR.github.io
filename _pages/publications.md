@@ -1,20 +1,10 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publicaciones"
 permalink: /publications/
-author_profile: true
+
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Peer-reviewed papers: 42 in total
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<sup>*</sup> Equal authorship
-
-<img src="/images/Banner02.png" style="width: 100%" />
+### 2022
+* Mercado-Gómez, J.D., Morales-Puentes, M.E., Gonzalez, M.A., __Velasco, J.A__. Seasonal droughts during the Miocene drove the evolution of Capparaceae towards   Neotropical seasonally dry forests. Revista de Biología Tropical 70: 132-148. https://doi.org/10.15517/rev.biol.trop..v70i1.47504
