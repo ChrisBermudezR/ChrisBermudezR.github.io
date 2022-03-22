@@ -21,7 +21,7 @@ Expositor:
 
 Expositor:
 
-    Riesgo de colisión entre la ballena jorobada (*Megaptera novaeangliae) y buques de carga en el Pacífico colombiano: Los SIG como herramienta de evaluación.
+  * Riesgo de colisión entre la ballena jorobada (*Megaptera novaeangliae) y buques de carga en el Pacífico colombiano: Los SIG como herramienta de evaluación.
 ### 2018
 
 * **Ocean GIS Forum - ESRI**. *Redlands*, California, Estados Unidos.
