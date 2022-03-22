@@ -11,9 +11,9 @@ redirect_from:
 
 Formación Académica
 ======
-* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005
-* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011
 * Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012
+* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011
+* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005
 
 Experiencia Profesional
 ======
