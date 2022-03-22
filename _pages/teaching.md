@@ -11,7 +11,7 @@ title: "Docencia"
 
 ### 2010 - 2012
 
-* *Biólogo - Docente Pre-Universitario, Universidad del Valle, Santiago de Cali, Valle
+* Biólogo - Docente Pre-Universitario, Universidad del Valle, Santiago de Cali, Valle
 del Cauca, Colombia. *Docente del curso Biología General en el programa preuniversitario de la Alcaldía de Cali* ”Plan Talentos”.
   * Dictar clases magistrales para estudiantes de preuniversitario durante toda la semana;
   * Preparar talleres para la presentación del exámen de estado SABER 11
