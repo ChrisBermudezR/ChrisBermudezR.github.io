@@ -3,7 +3,7 @@ title: "Publicaciones"
 permalink: /publications/
 
 ---
-
+# Artículos Científicos
 ### 2021
 * Hoyos Acuña, J. J., Quintana-Manotas , H. L., **Bermudez Rivas, C.**, Molina Triana, A. F., Castrilllón Valencia, F. A., & Parada Gutiérrez , J. L. (2021). Listado de especies de fitoplancton en la bahía de Tumaco, Pacífico colombiano. Intropica, 16(2), Postprint. https://doi.org/10.21676/23897864.4064
 

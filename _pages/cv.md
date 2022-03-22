@@ -35,7 +35,7 @@ Habilidades
 * **Git:** Manejo de versiones de programas y proyectos de programación.
 * **CDO LINUX:** Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
 * **Excel:** Manejo de datos, Programación en Visual Basic, Tablas Dinámicas.
-**PowerPoint:** Presentaciones de datos, estadísticas y Infografías.
+* **PowerPoint:** Presentaciones de datos, estadísticas y Infografías.
 * **Word:** Produccióon de textos con referencias internas y externas, Manejo avanzado de tablas y referencias bibliográficas.
 * **LaTex:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
 
@@ -81,10 +81,10 @@ Chile
 
 <iframe src="/files/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Puede Bajar una copia en PDF de mi Resumé [aquí](/files/Resume.pdf).
+Descarga una copia en PDF de mi Resumé [aquí](/files/Resume.pdf).
 
 <iframe src="/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Puede Bajar una copia en PDF de mi CV [aquí](/files/CV.pdf).
+Descarga una copia en PDF de mi CV [aquí](/files/CV.pdf).
 
 <img src="/images/Banner05.png" style="width: 100%" />

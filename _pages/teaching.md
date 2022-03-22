@@ -22,8 +22,6 @@ Habilidades.
 Buenaventura, Valle del Cauca, Colombia
 Docente del curso Biología de la Conservación.
 
-Detalle de logros:
-
   * Dictar tres horas semanales de clases para estudiantes de 4 semestre;
   * Preparar y dictar los talleres y discusiones de artículos sobre biología de la conservación.
 
