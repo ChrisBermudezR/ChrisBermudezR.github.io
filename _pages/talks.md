@@ -8,7 +8,7 @@ title: "Conferencias"
 Exposición tipo poster:
   * Early HABs species detection in the Tumaco Bay -Colombia
 
-  <iframe src="/files/HABs.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+  <iframe src="/files/HABs.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 Descarga una copia en PDF [aquí](/files/HABs.pdf).
 ### 2019
