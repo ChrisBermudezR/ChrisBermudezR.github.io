@@ -17,10 +17,11 @@ Formación Académica
 
 Experiencia Profesional
 ======
-* **2014 - Actualidad:** *Biólogo* - **Investigador Científico** - [Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico](https://www.cccp.org.co/), [Dirección General Marítima](https://www.dimar.mil.co/). *Tumaco* - **Colombia**.
-* **2013 - 2014:** *Biólogo* - **Investigador especializado en Sistemas de Informaci´on Geográfica** - [Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico](https://www.cccp.org.co/), [Dirección General Marítima](https://www.dimar.mil.co/). *Tumaco* - **Colombia**.
-* **2012 - 2013:**  *Biólogo de Campo** -  [Ecuambiente Consulting Group CIA Ltda](https://www.ecuambiente.com/). *PN Yasuní* - **Ecuador**.
+* **2014 - Actualidad:** *Biólogo* - **Investigador Científico** - Área de Protección del Medio Maríno - [Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico](https://www.cccp.org.co/), [Dirección General Marítima](https://www.dimar.mil.co/). *Tumaco* - **Colombia**.
+* **2013 - 2014:** *Biólogo* - **Investigador especializado en Sistemas de Información Geográfica** - Área de Manejo Integrado de Zona Costera - [Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico](https://www.cccp.org.co/), [Dirección General Marítima](https://www.dimar.mil.co/). *Tumaco* - **Colombia**.
+* **2012 - 2013:**  *Biólogo de Campo** -  [Ecuambiente Consulting Group CIA Ltda](https://www.ecuambiente.com/). *PN* Yasuní - **Ecuador**.
 * **2006 - 2007:** *Biólogo Coordinador** - **Biólogo coordinador del convenio N. 05-01-248443-054CE entre el instituto “Alexander von Humboldt” y la Universidad del Valle** - [Instituto Alexander von Humboldt](http://www.humboldt.org.co/es/) y [Universidad del Valle](https://www.univalle.edu.co/). *Cali* - **Colombia**.
+* **2005:** *Biólogo* - **Asistente de Investigación** - Grupo de Investigaciones en Hormigas - [Universidad del Valle](https://www.univalle.edu.co/) y Paisajes Rurales - [Instituto Alexander von Humboldt](http://www.humboldt.org.co/es/). *Cali* - **Colombia**.
 
 
   
