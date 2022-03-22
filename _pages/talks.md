@@ -96,4 +96,4 @@ Expositor:
  
   * Variación De La Diversidad De Hormigas Cazadoras Y Coleopteros Estafilínidos Entre Elementos Del Paisaje Del Bosque Seco Tropical Del Valle Geografico Delrío Cauca, Colombia.
 
-<img src="Banner03.png" style="width: 100%"/>
+#<img src="Banner03.png" style="width: 100%"/>
