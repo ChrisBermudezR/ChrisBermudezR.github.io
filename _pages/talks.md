@@ -17,11 +17,16 @@ Descarga una copia en PDF [aquí](/files/HABs.pdf).
 
 Expositor:
   * Riesgo de colisión entre la ballena jorobada (*Megaptera novaeangliae*) y buques de carga en el Pacífico colombiano: Los **SIG** como herramienta de evaluación.
-    XVII Seminario Nacional de Ciencias y Tecnologías del Mar. Barranquilla, Colombia.
+   
 
-Expositor:
+Exposición tipo poster:
 
-  * Riesgo de colisión entre la ballena jorobada (*Megaptera novaeangliae) y buques de carga en el Pacífico colombiano: Los SIG como herramienta de evaluación.
+  * Vulnerabilidad de las áreas protegidas del Pacífico Colombiano asociada a los cambios en al bioquímica del océano, en diferentes escenarios de cambio climático: PNN Gorgona y SFF Malpelo.
+
+ <iframe src="/files/Plantilla_Poster_CCCP.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+Descarga una copia en PDF [aquí](/files/Plantilla_Poster_CCCP.pdf).
+
 ### 2018
 
 * **Ocean GIS Forum - ESRI**. *Redlands*, California, Estados Unidos.
@@ -29,7 +34,7 @@ Expositor:
 Expositor:
 * Building an Evaluation Model with GIS for Colombia's Marine Protected Areas. [Link](https://www.youtube.com/watch?v=u0s8yO-Evw8)
 
-* Evaluating the collision risk between whales and ships: A GIS as a tool for management.
+* Evalueting the collision risk between whales and ships: A GIS as a tool for management.
 
 ### 2016
 * **Conferencia de Usuarios ESRI-CCU**. *Bogotá*, Colombia.
