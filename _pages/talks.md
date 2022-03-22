@@ -2,13 +2,26 @@
 permalink: /talks/
 title: "Conferencias"
 ---
+### 2021
+* **International Congress Harmful Algae 2021** *Virtual Attendance*.
+
+<iframe src="/files/HABs.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+Descarga una copia en PDF [aquí](/files/HABs.pdf).
+
+Exposición tipo poster:
+  * Early HABs species detection in the Tumaco Bay -Colombia
 ### 2019
 
 * **XVII Seminario Nacional de Ciencias y Tecnologías del Mar**. *Barranquilla*, Colombia.
 
 Expositor:
   * Riesgo de colisión entre la ballena jorobada (*Megaptera novaeangliae*) y buques de carga en el Pacífico colombiano: Los **SIG** como herramienta de evaluación.
+    XVII Seminario Nacional de Ciencias y Tecnologías del Mar. Barranquilla, Colombia.
 
+Expositor:
+
+    Riesgo de colisión entre la ballena jorobada (*Megaptera novaeangliae) y buques de carga en el Pacífico colombiano: Los SIG como herramienta de evaluación.
 ### 2018
 
 * **Ocean GIS Forum - ESRI**. *Redlands*, California, Estados Unidos.
@@ -83,4 +96,4 @@ Expositor:
  
   * Variación De La Diversidad De Hormigas Cazadoras Y Coleopteros Estafilínidos Entre Elementos Del Paisaje Del Bosque Seco Tropical Del Valle Geografico Delrío Cauca, Colombia.
 
-<img src="Banner03.png" style="width: 100%" />
+<img src="images/Banner03.png" style="width: 100%" />
