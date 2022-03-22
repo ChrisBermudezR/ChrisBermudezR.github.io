@@ -17,4 +17,4 @@ author_profile: true
 
 <sup>*</sup> Equal authorship
 
-<img src="images/Banner02.png" style="width: 100%" />
+<img src="/images/Banner02.png" style="width: 100%" />
