@@ -16,3 +16,5 @@ author_profile: true
 {% endfor %}
 
 <sup>*</sup> Equal authorship
+
+<img src="images/Banner02.png" style="width: 100%" />
