@@ -77,4 +77,4 @@ Nariño, Colombia.
 Coordinador: Javier A. Simonetti. Facultad de Ciencias, Universidad de Chile, Santiago,
 Chile
 
-<img src="Banner05.png" style="width: 100%" />
+<img src="../images/Banner05.png" style="width: 100%" />
