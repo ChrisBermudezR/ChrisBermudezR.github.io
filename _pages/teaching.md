@@ -43,3 +43,5 @@ de Artrópodos
 Detalle de logros:
   * Dictar tres horas semanales de clases para estudiantes de 4 semestre;
   * Preparar y dictar las prácticas de laboratorio de Zoología de Artrópodos.
+
+  <img src="Banner05.png" style="width: 100%" />

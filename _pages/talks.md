@@ -4,7 +4,10 @@ title: "Conferencias"
 ---
 ### 2019
 
-**XVII Seminario Nacional de Ciencias y Tecnologías del Mar**. 
+* **XVII Seminario Nacional de Ciencias y Tecnologías del Mar**. *Barranquilla*, Colombia.
+
+Expositor:
+  * Riesgo de colisión entre la ballena jorobada (*Megaptera novaeangliae*) y buques de carga en el Pacífico colombiano: Los **SIG** como herramienta de evaluación.
 
 ### 2018
 
@@ -24,11 +27,14 @@ Expositor:
 ### 2011 
 * **XXXVIII Congreso Sociedad Colombiana de Entomología**. *Manizales*. Colombia. 
 
-*Simposio*: Avances en el estudio de los estafilínidos del Bs-T del valle del Cauca.
+*Encargado del Simposio*: 
+  * Avances en el estudio de los estafilínidos del Bs-T del valle del Cauca.
 
-*Exposiciones orales*: 
-Autocorrelación espacial: Problema o nuevo paradigma? Respondiendo a Legendre (1993). 
-¿Es la riqueza de especies una característica suficiente para estudiar la congruencia trans-taxa entre los ensambles?
+Expositor:
+
+  * Autocorrelación espacial: Problema o nuevo paradigma? Respondiendo a Legendre (1993). 
+
+  * ¿Es la riqueza de especies una característica suficiente para estudiar la congruencia trans-taxa entre los ensambles?
 
 ### 2010
 
@@ -36,7 +42,8 @@ Autocorrelación espacial: Problema o nuevo paradigma? Respondiendo a Legendre (
 
 *Expositor*:
   * Patrones de riqueza de las hormigas (Hymenoptera: Formicidae) de hojarasca del Bs-T.
-    Gradientes de elevación de las especies de hormigas cazadoras (Hymenoptera: Formicidae) de Colombia: Pruebas de hipótesis.
+
+  * Gradientes de elevación de las especies de hormigas cazadoras (Hymenoptera: Formicidae) de Colombia: Pruebas de hipótesis.
 
   * Patrones de riqueza de las mariposas comunes de la cordillera central de Colombia en  un gradiente altitudinal.
 
@@ -44,8 +51,9 @@ Autocorrelación espacial: Problema o nuevo paradigma? Respondiendo a Legendre (
 
 ### 2008
 
-* **XXXV Congreso sociedad colombiana de entomología**. Asistente. *Cali*. Colombia.
+* **XXXV Congreso sociedad colombiana de entomología**.  *Cali*. Colombia.
 
+Asistente.
 ### 2007 
 * **XXXIV Congreso sociedad colombiana de entomología**. *Cartagena de Indias*. Colombia. 
 
@@ -75,4 +83,4 @@ Expositor:
  
   * Variación De La Diversidad De Hormigas Cazadoras Y Coleopteros Estafilínidos Entre Elementos Del Paisaje Del Bosque Seco Tropical Del Valle Geografico Delrío Cauca, Colombia.
 
-
+<img src="Banner03.png" style="width: 100%" />
