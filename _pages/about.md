@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "Mi perfil"
+title: "Mi Perfil"
 excerpt: "About me"
 classes: wide
 author_profile: true
