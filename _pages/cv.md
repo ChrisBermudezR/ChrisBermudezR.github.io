@@ -9,32 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formación Académica
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005
+* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011
+* Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012
 
-Work experience
+Experiencia Profesional
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Habilidades
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* **PowerPoint** Presentaciones de datos, estadísticas y Infografías.
+* **Word** Produccióon de textos con referencias internas y externas, Manejo avanzado de tablas y referencias bibliográficas.
+* **Anaconda** Programacón en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
+* **CDO LINUX** Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
+* **ArcGIS** Geoprocesamientos, Análisis Espacial, Análisis de Imágenes Satelitales
+* **Excel Manejo de datos**, Programación en Visual Basic, Tablas Dinámicas.
+* **R Studio** Programación en el lenguaje de R, Análisis estadísticos Uni y Multivariado, Manejo de Imagenes, Sonido y Video.
+
+* **Latex** Producción de textos para artículos científicos, Tesis de Grado e Informes.
+* **Matlab** Programación en el lenguaje de Matlab, Análisis de datos oceanográficos
+* **QGIS** Geoprocesamientos, Análisis Espacial, Análisis de Imagenes Satelitales
 
 Publications
 ======
