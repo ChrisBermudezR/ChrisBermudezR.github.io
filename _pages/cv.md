@@ -87,9 +87,16 @@ Chile
 Descargue una copia en PDF del certificado [aquí](/files/cv/Cursos.pdf).
 
 
+Archivos descargables del *Resumé* y el *Curriculum Vitae*
+======
+
+# ***Resumé***
+
 <iframe src="/files/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 Descarga una copia en PDF de mi Resumé [aquí](/files/Resume.pdf).
+
+# ***Curriculum Vitae***
 
 <iframe src="/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
