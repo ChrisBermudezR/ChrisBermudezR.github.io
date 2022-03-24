@@ -11,13 +11,13 @@ redirect_from:
 
 Formación Académica
 ======
-* Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012
-* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011
-* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005
+* Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012. Descargue una copia en PDF del certificado [aquí](/files/cv/Certificado_Especializacion_SIG.pdf).
+* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011. Descargue una copia en PDF del certificado [aquí](/files/cv/Acta_grado_magister.pdf).
+* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005. Descargue una copia en PDF del certificado [aquí](/files/cv/Acta_grado_profesional.pdf).
 
 Experiencia Profesional
 ======
-* **2014 - Actualidad:** *Biólogo* - **Investigador Científico** - Área de Protección del Medio Maríno - [Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico](https://www.cccp.org.co/), [Dirección General Marítima](https://www.dimar.mil.co/). *Tumaco* - **Colombia**.
+* **2014 - Actualidad:** *Biólogo* - **Investigador Científico** - Área de Protección del Medio Maríno - [Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico](https://www.cccp.org.co/), [Dirección General Marítima](https://www.dimar.mil.co/). *Tumaco* - **Colombia**. 
 * **2013 - 2014:** *Biólogo* - **Investigador especializado en Sistemas de Información Geográfica** - Área de Manejo Integrado de Zona Costera - [Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico](https://www.cccp.org.co/), [Dirección General Marítima](https://www.dimar.mil.co/). *Tumaco* - **Colombia**.
 * **2012 - 2013:**  *Biólogo de Campo* -  [Ecuambiente Consulting Group CIA Ltda](https://www.ecuambiente.com/).  *PN Yasuní* - **Ecuador**.
 * **2006 - 2007:** *Biólogo Coordinador* - **Biólogo coordinador del convenio N. 05-01-248443-054CE entre el instituto “Alexander von Humboldt” y la Universidad del Valle** - [Instituto Alexander von Humboldt](http://www.humboldt.org.co/es/) y [Universidad del Valle](https://www.univalle.edu.co/). *Cali* - **Colombia**.
@@ -38,6 +38,12 @@ Habilidades
 * **PowerPoint:** Presentaciones de datos, estadísticas y Infografías.
 * **Word:** Produccióon de textos con referencias internas y externas, Manejo avanzado de tablas y referencias bibliográficas.
 * **LaTex:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
+
+Idiomas
+======
+
+Ingles: Listening C2, Speaking B1, Reading C2, Writing B1. Descargue una copia en PDF del certificado [aquí](/files/cv/Ingles_EFSET.pdf)
+
 
 Estudios Particulares
 ===
@@ -77,6 +83,8 @@ Nariño, Colombia.
 Coordinador: Javier A. Simonetti. Facultad de Ciencias, Universidad de Chile, Santiago,
 Chile
 
+
+Descargue una copia en PDF del certificado [aquí](/files/cv/Certificado_Cursos.pdf).
 
 
 <iframe src="/files/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
