@@ -84,7 +84,7 @@ Coordinador: Javier A. Simonetti. Facultad de Ciencias, Universidad de Chile, Sa
 Chile
 
 
-Descargue una copia en PDF del certificado [aquí](/files/cv/Certificado_Cursos.pdf).
+Descargue una copia en PDF del certificado [aquí](/files/cv/Cursos.pdf).
 
 
 <iframe src="/files/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
