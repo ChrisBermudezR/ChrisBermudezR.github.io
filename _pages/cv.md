@@ -30,7 +30,7 @@ Habilidades
 * **QGIS:** Geoprocesamientos, Análisis Espacial, Análisis de Imagenes Satelitales.
 * **R Studio:** Programación en el lenguaje de R, Análisis espaciales y estadísticos Uni y Multivariado, Manejo de Imagenes, Sonido y Video.
 * **Matlab:** Programación en el lenguaje de Matlab, Análisis de datos oceanográficos.
-* **Anaconda:** Programacón en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
+* **Anaconda:** Programación en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
 * **Markdown:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
 * **Git:** Manejo de versiones de programas y proyectos de programación.
 * **CDO LINUX:** Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
