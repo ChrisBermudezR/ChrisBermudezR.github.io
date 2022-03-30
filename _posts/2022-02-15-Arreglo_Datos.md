@@ -15,7 +15,7 @@ tags:
 - Operadores de programación
 - R Studio
 ---
-En este *post** se explicará el manejo de algunos tipos de datos básicos en el lenguaje de programación R. Definiremos qué son las variables y qué son los objetos y aprenderemos a asignar variables a objetos. Además, los comandos que nos dan información sobre la naturaleza de los datos.
+En este *post* se explicará el manejo de algunos tipos de datos básicos en el lenguaje de programación R. Definiremos qué son las variables y qué son los objetos y aprenderemos a asignar variables a objetos. Además, los comandos que nos dan información sobre la naturaleza de los datos.
 
 <!--more-->
 
@@ -48,7 +48,7 @@ Dependiendo la influencia que tengan este último tipo de variable, se pueden de
 2. **Variable dependiente:** El valor que se expresa esta variable depende de otra variable. Este tipo de variables cuando se analizan en un plano cartesiano, se representa en el eje de las ordenadas (eje y). *Ej:* la temperatura ambiental en una calle.
 
 
-### Objetos.
+## Objetos.
 
 Los objetos en programación se consideran como la información que manipulamos, a la cual se le puede aplicar algún tipo de operación o análisis. Estos objetos vienen definidos por una serie de atributos que pueden ser los que describen a qué tipo de variable corresponden. Los objetos se guardan en la memoria temporal de la consola de R que de ahora en adelante se conocerá como *"Environment"*. Para llamar los objetos desde el *"Environment"*, es necesario escribir su nombre en la consola como veremos más adelante.
 
