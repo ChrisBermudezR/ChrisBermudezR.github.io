@@ -89,7 +89,7 @@ Lo que obtenemos a partir de esta operación, que matemáticamente no tiene sent
 
 Los objetos se les puede nombrar de cualquier manera pero con algunas restricciones. Un objeto puede tener un nombre largo como por ejemplo *Inversiones* y se le puede asignar cualquier valor o conjunto de valores. Sin embargo, la forma de nombrar objetos tiene restricciones de tipo **valor**, esto quiere decir que un objeto no puede ser nombrado con un valor numérico, pero si con un valor simbólico. Para ser mas claro, no se puede nombrar un objeto para la variable 4 con un valor numérico de 3, porque se generaría un error lógico asi:
 
-``` r error=TRUE 
+``` r  
 3=4
 ```
 
@@ -98,20 +98,20 @@ Este error significa que no se puede asignar el valor izquierdo (*inválido (do_
 
 Otra condición necesaria para asignar nombres es que estos siempre deben empezar con una letra:
 
-``` r error=TRUE 
+``` r  
 3_clientes = 34
 
 ```
 
 Este error indica que no es esperado la entrada *3_*, lo cuál debe ser corregido asignando cualquier tipo de letra antes que el número:
 
-``` r error=TRUE
+``` r 
 A3_clientes = 34
 ```
 
 Este código asigna el valor 34 al objeto A3_clientes, pero si el nombre tuviera un símbolo o caracter especial, este no podría ser asignado, com por ejemplo:
 
-``` r error=TRUE
+``` r 
 A3_)clientes = 34
 ```
 
@@ -206,7 +206,7 @@ Asignar el valor de 5600 a un objeto que se llame R34.
 
 Corregir el problema de asignación de valores en el siguiente código.
 
-``` r error=TRUE
+``` r 
 
 valor-> 4
 
