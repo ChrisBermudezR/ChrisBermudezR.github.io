@@ -59,7 +59,8 @@ En el lenguaje de programación R, los objetos pueden adquirir muchísimas forma
 
 Para asignar un valor de una variable de cualquier tipo a un objeto, se pueden utilizar los símbolos <- ó = de la siguiente manera:
 
-``` r
+``` 
+
 a <- 4
 a = 4
 ```
