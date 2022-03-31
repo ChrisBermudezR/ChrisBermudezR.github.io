@@ -15,7 +15,7 @@ tags:
 - Operadores de programación
 - R Studio
 ---
-En este *post* se explicará el manejo de algunos tipos de datos básicos en el lenguaje de programación R. Definiremos qué son las variables y qué son los objetos y aprenderemos a asignar variables a objetos. Además, los comandos que nos dan información sobre la naturaleza de los datos.
+En este *post* explicaré el manejo de algunos tipos de datos básicos en el lenguaje de programación R. Definiré qué son las variables y qué son los objetos y explicaré como asignar variables a objetos. Además, explicaré como usar los comandos que nos dan información sobre la naturaleza de los datos.
 
 <!--more-->
 
@@ -64,13 +64,6 @@ Para asignar un valor de una variable de cualquier tipo a un objeto, se pueden u
 a <- 4
 a = 4
 ```
-
-<pre>
-  <code>
-    p { color: red; }
-    body { background-color: #eee; }
-  </code>
-</pre>
 
 Cualquiera de la dos formas de asignación de valores a un objeto, tendrá el mismo resultado.
 
