@@ -64,6 +64,14 @@ Para asignar un valor de una variable de cualquier tipo a un objeto, se pueden u
 a <- 4
 a = 4
 ```
+
+<pre>
+  <code>
+    p { color: red; }
+    body { background-color: #eee; }
+  </code>
+</pre>
+
 Cualquiera de la dos formas de asignación de valores a un objeto, tendrá el mismo resultado.
 
 Para llamar el objeto a que creamos con el valor 4, se debe solo digitar el nombre del objeto en la consola de la siguiente manera.
