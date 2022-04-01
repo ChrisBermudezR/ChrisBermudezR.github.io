@@ -72,8 +72,7 @@ Esto índica que el objeto a tiene un valor de 4.
 
 El símbolo **<-** se conoce como *"become"* que en inglés significa **"Convertirse en"**. Sin embargo, también puede interpretarse como una flecha que apunta hacia la dirección de la asignación, ya que podemos asignar valores con el símbolo **->** de la siguiente manera:
 
-`
-4->a
+`4->a
 `
 
 Lo anterior, también asigna el valor 4 al objeto a como en el primer código.
