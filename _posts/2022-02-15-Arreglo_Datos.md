@@ -69,74 +69,86 @@ Cualquiera de la dos formas de asignación de valores a un objeto, tendrá el mi
 
 Para llamar el objeto a que creamos con el valor 4, se debe solo digitar el nombre del objeto en la consola de la siguiente manera.
 
-`a `
+<pre>
+a
+</pre>
+{: .notice}
 
 Esto índica que el objeto a tiene un valor de 4.
 
 El símbolo **<-** se conoce como *"become"* que en inglés significa **"Convertirse en"**. Sin embargo, también puede interpretarse como una flecha que apunta hacia la dirección de la asignación, ya que podemos asignar valores con el símbolo **->** de la siguiente manera:
 
-`4->a
-`
+<pre>
+4->a
+</pre>
+{: .notice}
 
 Lo anterior, también asigna el valor 4 al objeto a como en el primer código.
 
 Una vez que se tiene creado un objeto, a este se le puede aplicar cualquier operación como la siguiente:
 
-``` r
+<pre>
 a + 6
-```
+</pre>
+{: .notice}
 
 Lo que obtenemos a partir de esta operación, que matemáticamente no tiene sentido, salvo que el objeto a en este caso está guardado en la memoria de lenguaje de programación y representa el valor 4. Al hacer la operación con una constate como el número 6, el resultado final será 10.
 
 Los objetos se les puede nombrar de cualquier manera pero con algunas restricciones. Un objeto puede tener un nombre largo como por ejemplo *Inversiones* y se le puede asignar cualquier valor o conjunto de valores. Sin embargo, la forma de nombrar objetos tiene restricciones de tipo **valor**, esto quiere decir que un objeto no puede ser nombrado con un valor numérico, pero si con un valor simbólico. Para ser mas claro, no se puede nombrar un objeto para la variable 4 con un valor numérico de 3, porque se generaría un error lógico asi:
 
-``` r  
+<pre> 
 3=4
-```
+</pre>
+{: .notice}
 
 
 Este error significa que no se puede asignar el valor izquierdo (*inválido (do_set) lado izquierdo de la asignación*) al valor derecho, y esto es debido a que ambos son constantes. 
 
 Otra condición necesaria para asignar nombres es que estos siempre deben empezar con una letra:
 
-``` r  
+<pre>
 3_clientes = 34
 
-```
+</pre>
+{: .notice}
 
 Este error indica que no es esperado la entrada *3_*, lo cuál debe ser corregido asignando cualquier tipo de letra antes que el número:
 
-``` r 
+<pre> 
 A3_clientes = 34
-```
+</pre>
+{: .notice}
 
 Este código asigna el valor 34 al objeto A3_clientes, pero si el nombre tuviera un símbolo o caracter especial, este no podría ser asignado, com por ejemplo:
 
-``` r 
+<pre> 
 A3_)clientes = 34
-```
+</pre>
+{: .notice}
 
 Este error sugiere que en el código no tiene sentido el símbolo ")" ya que estos se usan en otras circunstancias que máss adelante serán tratadas.
 
 En el lenguaje de programación de R, existe una posibilidad contraintuitiva que nos plantearon en nuestras clases de matemáticas básicas cuando eramos niños, la posibilidad de sumar peras con manzanas. Esto solo es posible a través de la creación de objetos como lo veremos a continuación.
 
-``` r
+<pre>
 manzanas= 56
 peras= 45
 
 manzanas + peras
 
-```
+</pre>
+{: .notice}
 
 Lo anterior solo es posiible porque las manzanas y las peras son objetos con valores numéricos.
 
 Un objeto también puede ser creado a partir del resultado de una operación de dos objetos, de la siguiente manera:
 
-``` r
+<pre>
 resultado<-manzanas - peras
 
 resultado
-```
+</pre>
+{: .notice}
 
 En este último ejemplo, el resultado de la operación de resta se guarda en el nuevo objeto *resultado*.
 
@@ -155,19 +167,21 @@ Los números reales en el lenguaje de R se representan con el tipo *numeric* (*e
 
 Los números enteros se representan a través de un tipo de número especial llamado *Integer* (*e.g.* 7). Para especificar que un número es entero, se debe anadir la letra L en mayuscula como sufijo. 
 
-``` r
+<pre>
 cuarenta<-40L
 cuarenta
-```
+</pre>
+{: .notice}
 
 
 ## Datos de texto.
 
 Cualquier dato alfanumérico o cadenas (*strings*) y que no sea exclusivamente un número es interpretado como un *character*. Un ejemplo de esto es:
 
-``` r
+<pre>
 "Aprendiendo R"
-```
+</pre>
+{: .notice}
 
 Los datos de tipo *character* se asignan siempre entre comillas, para indicarle al lenguaje que es una cadena de texto.
 
@@ -177,23 +191,27 @@ El tipo de datos lógicos es la forma para los datos binarios y se conocen como 
 
 
 
-``` r
+<pre>
 10 > 5
-```
+</pre>
+{: .notice}
 ## Datos ausentes.
 
 Muchas veces cuando se realizan tomas de muestras, algunos datos no es posible tomarlos o estos pueden perderse. Para indicarle al lenguaje de programación sobre esta situación se debe establecer un valor para estos datos. Por lo general se utiliza el símbolo NA que traduce *"Not Available"*. 
 
-``` r
+<pre>
 A=NA
 A
-```
+</pre>
+{: .notice}
 ## Datos Temporales.
 
 Los datos temporales son datos complejos que pueden presentar retos de manejo en los diferentes conjuntos de datos. Estos por lo general se basan en diferentes calendarios, horas, días, o meses; y esto hay que tenerlo en cuenta a la hora de calcular la fecha y la hora inicial. Como introducción por el momento se mostrará una forma de crear datos temporales, pero mas adelante se tratará el tema a fondo
-``` r
+
+<pre>
 as.Date("2021-06-19")
-```
+</pre>
+{: .notice}
 
 
 # Ejercicios
@@ -207,11 +225,12 @@ Asignar el valor de 5600 a un objeto que se llame R34.
 
 Corregir el problema de asignación de valores en el siguiente código.
 
-``` r 
+<pre>
 
 valor-> 4
 
-```
+</pre>
+{: .notice}
 
 ## Ejercicio 3
 
