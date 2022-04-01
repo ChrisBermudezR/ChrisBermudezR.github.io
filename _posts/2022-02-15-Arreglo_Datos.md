@@ -59,11 +59,7 @@ En el lenguaje de programación R, los objetos pueden adquirir muchísimas forma
 
 Para asignar un valor de una variable de cualquier tipo a un objeto, se pueden utilizar los símbolos <- ó = de la siguiente manera:
 
-<pre>
-
-a <- 4
-a = 4
-</pre>
+`a <- 4 a = 4`
 
 Cualquiera de la dos formas de asignación de valores a un objeto, tendrá el mismo resultado.
 
@@ -74,9 +70,10 @@ Para llamar el objeto a que creamos con el valor 4, se debe solo digitar el nomb
 Esto índica que el objeto a tiene un valor de 4.
 
 El símbolo **<-** se conoce como *"become"* que en inglés significa **"Convertirse en"**. Sin embargo, también puede interpretarse como una flecha que apunta hacia la dirección de la asignación, ya que podemos asignar valores con el símbolo **->** de la siguiente manera:
-``` r
+
+`
 4->a
-```
+`
 
 Lo anterior, también asigna el valor 4 al objeto a como en el primer código.
 
