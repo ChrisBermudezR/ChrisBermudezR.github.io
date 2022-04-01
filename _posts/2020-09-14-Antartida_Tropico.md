@@ -1,7 +1,7 @@
 ---
 title: 'Desde la Antártida al Trópico'
 date: 2020-09-14
-permalink: /posts/2020/09/Malpelo/
+permalink: /posts/2020/09/Antartida/
 tags:
   - Migración de Ballenas
   - Ecoturismo
