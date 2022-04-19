@@ -64,16 +64,22 @@ OBIS), a cargo del Dr. Julián José Pizarro-Pertuz, Ocean Teacher Global Academ
 
 * **Ene 2017** Curso de Herramientas Estadísticas para el Análisis de Datos Oceanográficos y
 Meteorológicos, a cargo de la Universidad del Valle, Facultad de Ciencias Naturales y
-Exactas, Tumaco, Nariño, Colombia
+Exactas, Tumaco, Nariño, Colombia.
 
-* **May 2015** Oceanografía por Sensores Remotos, a cargo de la DRA. Angélica Gutierrez Magness
-de la National Oceanic and Atmosferic Administration - NOAA, Cartagena de Indias,
+* **Oct 2015** Curso "*Train-the-trainer*" *Seminar on Port State Control under the Ballast Water Management Convention with Emphasis on Sampling and Analysis of Ballast Water*. ***International Maritime Organization***, Duluth, Estados Unidos.
+
+Descargue una copia en PDF del certificado [aquí](https://www.dropbox.com/s/vf7zwm647e7oxnl/2015_Trainer_Omi.pdf?dl=0)
+
+* **May 2015** Oceanografía por Sensores Remotos, a cargo de la DRA. Angélica Gutierrez Magness de la *National Oceanic and Atmosferic Administration* - *NOAA*, Cartagena de Indias,
 Bolivar, Colombia.
 
-* **Feb 2014** Capacitación sobre Datos LiDAR, dictada por la Dra. Victoria Achatz, UNIGIS
-América Latina, Tumaco Nariño, Colombia.
+Descargue una copia en PDF del certificado [aquí](https://www.dropbox.com/s/heszut74aykh2rx/2015_Oceanografia_Sensores_Remotos.pdf?dl=0)
+
+* **Feb 2014** Capacitación sobre Datos LiDAR, dictada por la Dra. Victoria Achatz, UNIGIS América Latina, Tumaco Nariño, Colombia.
 Nov 2013 Fundamentos de Infraestructura de datos espaciales, a cargo del Centro de
 Investigación y Desarrollo en Información Geográfica – IGAC, Tumaco Nariño, Colombia.
+
+Descargue una copia en PDF del certificado [aquí](https://www.dropbox.com/s/r67wksjdiy63lcj/2014_LiDAR.pdf?dl=0).
 
 * **Oct 2013** Sistemas de información geográfica aplicado al ordenamiento territorial, a cargo
 del Centro de Investigación y Desarrollo en Información Geográfica – IGAC, Tumaco
@@ -84,7 +90,7 @@ Coordinador: Javier A. Simonetti. Facultad de Ciencias, Universidad de Chile, Sa
 Chile
 
 
-Descargue una copia en PDF del certificado [aquí](/files/cv/Cursos_Certificados.pdf).
+
 
 
 Archivos descargables del *Resumé* y el *Curriculum Vitae*
