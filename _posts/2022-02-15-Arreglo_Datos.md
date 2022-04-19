@@ -1,5 +1,5 @@
 ---
-title: "Introducción al lenguaje R: Tipos de Arreglo de Datos"
+title: "Introducción al lenguaje R: Tipos de Datos"
 output:
   md_document:
     variant: gfm+footnotes
