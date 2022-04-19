@@ -42,7 +42,7 @@ Habilidades
 Idiomas
 ======
 
-Inglés: *Listening* **C2**, *Speaking* **B1**, *Reading* **C2**, *Writing* **B1**. Descargue una copia en PDF del certificado [aquí](/files/cv/Ingles_EFSET.pdf)
+Inglés: *Listening* **C2**, *Speaking* **B1**, *Reading* **C2**, *Writing* **B1**. Descargue una copia en PDF del certificado [aquí](https://www.dropbox.com/s/zuvedlczhtwu3j8/2021_Ingles_EFSET.pdf?dl=0)
 
 
 Estudios Particulares
