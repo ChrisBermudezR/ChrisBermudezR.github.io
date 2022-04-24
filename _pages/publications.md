@@ -38,13 +38,12 @@ permalink: /publications/
 # Capítulos de Libros
 
 ### 2020 
-* **Bermúdez-Rivas, C.**, Aguirre-Tapiero, M. P., & Velasco, J. A. (2020). Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. Compilación Oceanográfica de La Cuenca Pacífica Colombiana II, 231. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.researchgate.net/profile/Anlly-Guerrero-2/publication/356065565_Compilacion_Oceanografica_de_la_Cuenca_Pacifica_Colombiana_II/links/618aa059d7d1af224bca7155/Compilacion-Oceanografica-de-la-Cuenca-Pacifica-Colombiana-II.pdf?_sg%5B0%5D=ovlFs-4HLYRne0EURQP1EpsuoJT4K_9Hx6hDbjSW_3ffe9_AQY7XaInjMkPGcBuNwUA7cpL54CAVd6_b1Vkswg.u9Wf2fK5fpBzmX_AAocfRjQlLqufmJYAxfytx6Egga1q9taOTrN86sshFDNoYjuaYOrqDVyog3ySFHHmgifd_A&_sg%5B1%5D=O9WW76cbqHkrZm_cGHC0MX-jF4r21f96lT067VjSuz17FGKLCM5yOWYEDp0VGddl2D_KsxfEBCVsYEmgTSHEsNmpS6ZOtcxvEdlSfyY1KIOD.u9Wf2fK5fpBzmX_AAocfRjQlLqufmJYAxfytx6Egga1q9taOTrN86sshFDNoYjuaYOrqDVyog3ySFHHmgifd_A&origin=publicationDetail)
+* **Bermúdez-Rivas, C.**, Aguirre-Tapiero, M. P., & Velasco, J. A. (2020). Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. Compilación Oceanográfica de La Cuenca Pacífica Colombiana II, 231.
 
 ### 2019 
-* Niño, D. C., **Bermúdez-Rivas, C.**, Londoño-Cruz, E., Cantera, J. R., Valencia-Giraldo, D. E., Lázarus, J. F., Cabeza, L., Vásquez, L. M., Urbano, C. P., Grisales, C. H., Iriarte, J. D., Caicedo, A. L., & Giraldo, A. (2019). Capítulo II Descripción Física del Santuario de Fauna y Flora de Malpelo. Malpelo Es Colombia - Maravilla Estratégica, 179. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/crevmiuftf7bvzp/Hoyos-Acuna_etal_2021.pdf?dl=0)
-
+* Niño, D. C., **Bermúdez-Rivas, C.**, Londoño-Cruz, E., Cantera, J. R., Valencia-Giraldo, D. E., Lázarus, J. F., Cabeza, L., Vásquez, L. M., Urbano, C. P., Grisales, C. H., Iriarte, J. D., Caicedo, A. L., & Giraldo, A. (2019). Capítulo II Descripción Física del Santuario de Fauna y Flora de Malpelo. Malpelo Es Colombia - Maravilla Estratégica, 179.
 ### 2009
-* **Bermúdez, C.** (2009). Insectos migratorios de Colombia. In L. G. Naranjo & J. D. Amaya Espinel (Eds.), Plan Nacional de las especies migratorias (pp. 133–137). Ministerio de ambiente, vivienda y desarrollo territorial; WWF. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/crevmiuftf7bvzp/Hoyos-Acuna_etal_2021.pdf?dl=0)
+* **Bermúdez, C.** (2009). Insectos migratorios de Colombia. In L. G. Naranjo & J. D. Amaya Espinel (Eds.), Plan Nacional de las especies migratorias (pp. 133–137). Ministerio de ambiente, vivienda y desarrollo territorial; WWF. 
 
 ### 2008
 
