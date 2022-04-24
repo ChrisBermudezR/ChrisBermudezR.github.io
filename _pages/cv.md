@@ -11,7 +11,7 @@ redirect_from:
 
 Formación Académica
 ======
-* Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012. Descargue una copia en PDF del certificado [aquí](/files/cv/Certificado_Especializacion_SIG.pdf).
+* Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/cv/Certificado_Especializacion_SIG.pdf).
 * M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011. Descargue una copia en PDF del certificado [aquí](/files/cv/Acta_grado_magister.pdf).
 * B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005. Descargue una copia en PDF del certificado [aquí](/files/cv/Acta_grado_profesional.pdf).
 
