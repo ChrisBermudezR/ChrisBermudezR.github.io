@@ -12,8 +12,8 @@ redirect_from:
 Formación Académica
 ======
 * Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/cv/Certificado_Especializacion_SIG.pdf).
-* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011. Descargue una copia en PDF del certificado [aquí](/files/cv/Acta_grado_magister.pdf).
-* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005. Descargue una copia en PDF del certificado [aquí](/files/cv/Acta_grado_profesional.pdf).
+* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011.  [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/cv/Acta_grado_magister.pdf).
+* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005.  [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/cv/Acta_grado_profesional.pdf).
 
 Experiencia Profesional
 ======
@@ -42,7 +42,7 @@ Habilidades
 Idiomas
 ======
 
-Inglés: *Listening* **C2**, *Speaking* **B1**, *Reading* **C2**, *Writing* **B1**. Descargue una copia en PDF del certificado [aquí](https://www.dropbox.com/s/zuvedlczhtwu3j8/2021_Ingles_EFSET.pdf?dl=0)
+Inglés: *Listening* **C2**, *Speaking* **B1**, *Reading* **C2**, *Writing* **B1**.  [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/zuvedlczhtwu3j8/2021_Ingles_EFSET.pdf?dl=0)
 
 
 Estudios Particulares
@@ -68,18 +68,18 @@ Exactas, Tumaco, Nariño, Colombia.
 
 * **Oct 2015** Curso "*Train-the-trainer*" *Seminar on Port State Control under the Ballast Water Management Convention with Emphasis on Sampling and Analysis of Ballast Water*. ***International Maritime Organization***, Duluth, Estados Unidos.
 
-Descargue una copia en PDF del certificado [aquí](https://www.dropbox.com/s/vf7zwm647e7oxnl/2015_Trainer_Omi.pdf?dl=0)
+ [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/vf7zwm647e7oxnl/2015_Trainer_Omi.pdf?dl=0)
 
 * **May 2015** Oceanografía por Sensores Remotos, a cargo de la DRA. Angélica Gutierrez Magness de la *National Oceanic and Atmosferic Administration* - *NOAA*, Cartagena de Indias,
 Bolivar, Colombia.
 
-Descargue una copia en PDF del certificado [aquí](https://www.dropbox.com/s/heszut74aykh2rx/2015_Oceanografia_Sensores_Remotos.pdf?dl=0)
+ [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/heszut74aykh2rx/2015_Oceanografia_Sensores_Remotos.pdf?dl=0)
 
 * **Feb 2014** Capacitación sobre Datos LiDAR, dictada por la Dra. Victoria Achatz, UNIGIS América Latina, Tumaco Nariño, Colombia.
 Nov 2013 Fundamentos de Infraestructura de datos espaciales, a cargo del Centro de
 Investigación y Desarrollo en Información Geográfica – IGAC, Tumaco Nariño, Colombia.
 
-Descargue una copia en PDF del certificado [aquí](https://www.dropbox.com/s/r67wksjdiy63lcj/2014_LiDAR.pdf?dl=0).
+ [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/r67wksjdiy63lcj/2014_LiDAR.pdf?dl=0).
 
 * **Oct 2013** Sistemas de información geográfica aplicado al ordenamiento territorial, a cargo
 del Centro de Investigación y Desarrollo en Información Geográfica – IGAC, Tumaco
@@ -100,12 +100,12 @@ Archivos descargables del *Resumé* y el *Curriculum Vitae*
 
 <iframe src="/files/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Descarga una copia en PDF de mi Resumé [aquí](/files/Resume.pdf).
+Descarga una copia en PDF de mi Resumé [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/Resume.pdf).
 
 # ***Curriculum Vitae***
 
 <iframe src="/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Descarga una copia en PDF de mi CV [aquí](/files/CV.pdf).
+Descarga una copia en PDF de mi CV [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/CV.pdf).
 
 <img src="/images/Banner05.png" style="width: 100%" />
