@@ -33,7 +33,7 @@ Habilidades
 * **Python:** Programación en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
 * **Markdown:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
 * **Git:** Manejo de versiones de programas y proyectos de programación.
-* **CDO Linux:** <i class="fa-brands fa-linux"></i> Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
+* **CDO <i class="fa fa-linux fa-fw"></i>:** <i class="fa-brands fa-linux"></i> Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
 * **Excel:** Manejo de datos, Programación en Visual Basic, Tablas Dinámicas.
 * **PowerPoint:** Presentaciones de datos, estadísticas y Infografías.
 * **Word:** Produccióon de textos con referencias internas y externas, Manejo avanzado de tablas y referencias bibliográficas.
