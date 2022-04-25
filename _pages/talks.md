@@ -24,7 +24,7 @@ Exposición tipo poster:
 * **Ocean GIS Forum - ESRI**. *Redlands*, California, Estados Unidos.
 
 Expositor:
-* Building an Evaluation Model with GIS for Colombia's Marine Protected Areas. [<i class="fa-solid fa-link"></i>](https://www.youtube.com/watch?v=u0s8yO-Evw8)
+* Building an Evaluation Model with GIS for Colombia's Marine Protected Areas. [<i class="fa fa-link fa-fw"></i>](https://www.youtube.com/watch?v=u0s8yO-Evw8)
 
 * Evalueting the collision risk between whales and ships: A GIS as a tool for management.
 
