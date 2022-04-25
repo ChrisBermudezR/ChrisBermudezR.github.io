@@ -28,15 +28,15 @@ Habilidades
 
 * **ArcGIS:** Geoprocesamientos, Análisis Espacial, Análisis de Imágenes Satelitales.
 * **QGIS:** Geoprocesamientos, Análisis Espacial, Análisis de Imagenes Satelitales.
-* <i class="fa-brands fa-r-project"></i> Programación en el lenguaje de R, Análisis espaciales y estadísticos Uni y Multivariado, Manejo de Imagenes, Sonido y Video.
+* **R:** Programación en el lenguaje de R, Análisis espaciales y estadísticos Uni y Multivariado, Manejo de Imagenes, Sonido y Video.
 * **Matlab:** Programación en el lenguaje de Matlab, Análisis de datos oceanográficos.
-* <i class="fa-brands fa-python"></i> Programación en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
-* <i class="fa-brands fa-markdown"></i> Producción de textos para artículos científicos, Tesis de Grado e Informes.
-* <i class="fa-brands fa-git"></i> Manejo de versiones de programas y proyectos de programación.
-* **CDO <i class="fa-brands fa-linux"></i>** Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
-* **Excel:**<i class="fa-solid fa-file-excel"></i> Manejo de datos, Programación en Visual Basic, Tablas Dinámicas.
-* **PowerPoint:**<i class="fa-solid fa-file-powerpoint"></i> Presentaciones de datos, estadísticas y Infografías.
-* **Word:** <i class="fa-solid fa-file-word"></i> Produccióon de textos con referencias internas y externas, Manejo avanzado de tablas y referencias bibliográficas.
+* **Python:** Programación en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
+* **Markdown:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
+* **Git:** Manejo de versiones de programas y proyectos de programación.
+* **CDO Linux:** Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
+* **Excel:** Manejo de datos, Programación en Visual Basic, Tablas Dinámicas.
+* **PowerPoint:** Presentaciones de datos, estadísticas y Infografías.
+* **Word:** Produccióon de textos con referencias internas y externas, Manejo avanzado de tablas y referencias bibliográficas.
 * **LaTex:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
 
 Idiomas
