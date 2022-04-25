@@ -21,7 +21,7 @@ En este *post* explicaré el manejo de algunos tipos de datos básicos en el len
 
 # Definición de  Variables y Objetos.
 
-<i class="fa fa-github fa-fw"></i>
+<i class="fa fa-git-square fa-fw"></i>
 
 ## Variables.
 
