@@ -22,7 +22,7 @@ En este *post* explicaré el manejo de algunos tipos de datos básicos en el len
 # Definición de  Variables y Objetos.
 
 <i class="fa-brands fa-github"></i>
-<i class="fa fa-github fa-fw"></i>
+<i class="fa fa-github fa-3x">::before </i>
 <FontAwesomeIcon icon="fa-brands fa-github" />
 <font-awesome-icon icon="fa-brands fa-github" />
 f09b
