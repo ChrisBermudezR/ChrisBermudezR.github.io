@@ -93,14 +93,16 @@ Chile
 Archivos descargables del *Resumé* y el *Curriculum Vitae*
 ======
 
-# ***Resumé***
-
-<iframe src="/files/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-Descarga una copia en PDF de mi Resumé [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/Resume.pdf).
-
 # ***Curriculum Vitae***
 
 Descarga una copia en PDF de mi CV [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/CV.pdf).
+
+
+# ***Resumé***
+
+Descarga una copia en PDF de mi Resumé [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/Resume.pdf).
+
+
+<iframe src="/files/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 <img src="/images/Banner05.png" style="width: 100%" />

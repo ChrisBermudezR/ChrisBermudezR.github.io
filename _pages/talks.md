@@ -17,14 +17,14 @@ Expositor:
 
 Exposición tipo poster:
 
-  * Vulnerabilidad de las áreas protegidas del Pacífico Colombiano asociada a los cambios en al bioquímica del océano, en diferentes escenarios de cambio climático: PNN Gorgona y SFF Malpelo.[<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/bt4j6e6xbxykrpr/HABs.pdf?dl=0).
+  * Vulnerabilidad de las áreas protegidas del Pacífico Colombiano asociada a los cambios en al bioquímica del océano, en diferentes escenarios de cambio climático: PNN Gorgona y SFF Malpelo.[<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/jihxljx30iseea7/Plantilla_Poster_CCCP.pdf?dl=0).
 
 ### 2018 <i class="fa-solid fa-podium"></i>
 
 * **Ocean GIS Forum - ESRI**. *Redlands*, California, Estados Unidos.
 
 Expositor:
-* Building an Evaluation Model with GIS for Colombia's Marine Protected Areas. [<i class="fa-brands fa-youtube"></i>](https://www.youtube.com/watch?v=u0s8yO-Evw8)
+* Building an Evaluation Model with GIS for Colombia's Marine Protected Areas. [<i class="fa-solid fa-link"></i>](https://www.youtube.com/watch?v=u0s8yO-Evw8)
 
 * Evalueting the collision risk between whales and ships: A GIS as a tool for management.
 
