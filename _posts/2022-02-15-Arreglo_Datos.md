@@ -69,7 +69,7 @@ Para llamar el objeto a que creamos con el valor 4, se debe solo digitar el nomb
 
 ```json
 a
-4
+[1] 4
 ```
 
 
@@ -88,7 +88,7 @@ Una vez que se tiene creado un objeto, a este se le puede aplicar cualquier oper
 
 ```json
 a + 6
-10
+[1] 10
 ```
 
 
@@ -98,6 +98,7 @@ Los objetos se les puede nombrar de cualquier manera pero con algunas restriccio
 
 ```json 
 3=4
+Error in 3 = 4 : lado izquierdo de la asignación inválida (do_set)
 ```
 
 
@@ -108,6 +109,7 @@ Otra condición necesaria para asignar nombres es que estos siempre deben empeza
 
 ```json
 3_clientes = 34
+Error: unexpected input in "3_"
 
 ```
 
@@ -116,6 +118,8 @@ Este error indica que no es esperado la entrada *3_*, lo cuál debe ser corregid
 
 ```json 
 A3_clientes = 34
+A3_clientes 
+[1] 34
 ```
 
 
@@ -123,6 +127,7 @@ Este código asigna el valor 34 al objeto A3_clientes, pero si el nombre tuviera
 
 ```json 
 A3_)clientes = 34
+Error: inesperado ')' in "A3_)"
 ```
 
 
@@ -133,8 +138,8 @@ En el lenguaje de programación de R, existe una posibilidad contraintuitiva que
 ```json
 manzanas= 56
 peras= 45
-
 manzanas + peras
+[1] 101
 
 ```
 
@@ -145,8 +150,8 @@ Un objeto también puede ser creado a partir del resultado de una operación de 
 
 ```json
 resultado<-manzanas - peras
-
 resultado
+[1] 11
 ```
 
 
@@ -170,6 +175,7 @@ Los números enteros se representan a través de un tipo de número especial lla
 ```json
 cuarenta<-40L
 cuarenta
+[1] 40
 ```
 
 
@@ -193,6 +199,7 @@ El tipo de datos lógicos es la forma para los datos binarios y se conocen como 
 
 ```json
 10 > 5
+[1] TRUE
 ```
 
 ## Datos ausentes.
@@ -202,6 +209,7 @@ Muchas veces cuando se realizan tomas de muestras, algunos datos no es posible t
 ```json
 A=NA
 A
+[1] NA
 ```
 
 ## Datos Temporales.
@@ -210,6 +218,7 @@ Los datos temporales son datos complejos que pueden presentar retos de manejo en
 
 ```json
 as.Date("2021-06-19")
+[1] "2021-06-19"
 ```
 
 
