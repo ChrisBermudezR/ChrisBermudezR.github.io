@@ -2,12 +2,12 @@
 permalink: /talks/
 title: "Conferencias"
 ---
-### 2021 <i class="fa-solid fa-podium"></i>
+### 2021 
 * **International Congress Harmful Algae 2021** *Virtual Attendance*.
 
 Exposición tipo poster:
   * Early HABs species detection in the Tumaco Bay -Colombia [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/bt4j6e6xbxykrpr/HABs.pdf?dl=0).
-### 2019 <i class="fa-solid fa-podium"></i>
+### 2019 
 
 * **XVII Seminario Nacional de Ciencias y Tecnologías del Mar**. *Barranquilla*, Colombia.
 
@@ -19,7 +19,7 @@ Exposición tipo poster:
 
   * Vulnerabilidad de las áreas protegidas del Pacífico Colombiano asociada a los cambios en al bioquímica del océano, en diferentes escenarios de cambio climático: PNN Gorgona y SFF Malpelo.[<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/jihxljx30iseea7/Plantilla_Poster_CCCP.pdf?dl=0).
 
-### 2018 <i class="fa-solid fa-podium"></i>
+### 2018 
 
 * **Ocean GIS Forum - ESRI**. *Redlands*, California, Estados Unidos.
 
@@ -28,13 +28,13 @@ Expositor:
 
 * Evalueting the collision risk between whales and ships: A GIS as a tool for management.
 
-### 2016 <i class="fa-solid fa-podium"></i>
+### 2016 
 * **Conferencia de Usuarios ESRI-CCU**. *Bogotá*, Colombia.
 
 Expositor:
   * Los SIG como herramienta para la gestión y control de especies invasoras marinas.
 
-### 2011 <i class="fa-solid fa-podium"></i>
+### 2011 
 * **XXXVIII Congreso Sociedad Colombiana de Entomología**. *Manizales*. Colombia. 
 
 *Encargado del Simposio*: 
@@ -46,7 +46,7 @@ Expositor:
 
   * ¿Es la riqueza de especies una característica suficiente para estudiar la congruencia trans-taxa entre los ensambles?
 
-### 2010 <i class="fa-solid fa-podium"></i>
+### 2010 
 
 * **XXXVII Congreso Sociedad Colombiana de Entomología**. *Santa Fé de Bogotá*. Colombia
 
@@ -59,12 +59,12 @@ Expositor:
 
   * Que explica la distribución altitudinal de odonata en el valle del Cauca?
 
-### 2008 <i class="fa-solid fa-podium"></i>
+### 2008 
 
 * **XXXV Congreso sociedad colombiana de entomología**.  *Cali*. Colombia.
 
 Asistente.
-### 2007 <i class="fa-solid fa-podium"></i> 
+### 2007  
 * **XXXIV Congreso sociedad colombiana de entomología**. *Cartagena de Indias*. Colombia. 
 
 *Expositor*:
@@ -72,7 +72,7 @@ Asistente.
 
   * Análisis de la riqueza y diversidad de la familia Staphylinidae (Insecta: Coleoptera)  en el paisaje del Bs-T del Valle del Cauca, Colombia.
 
-### 2006 <i class="fa-solid fa-podium"></i>
+### 2006 
 
 * **II Congreso Colombiano de Zoología**. *Santa Marta*, Colombia. 
 
@@ -86,7 +86,7 @@ Asistente.
 Expositor: 
   * El trabajo con Hormigas en Bosque seco tropical
 
-### 2005 <i class="fa-solid fa-podium"></i>
+### 2005 
 * **V coloquio de Insectos Sociales. IUSSI - Sección Bolivariana**. *Cali*, Colombia.
 
  Presentación Tipo Póster: 
