@@ -32,7 +32,7 @@ Habilidades
 * **Matlab:** Programación en el lenguaje de Matlab, Análisis de datos oceanográficos.
 * **Python:** Programación en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
 * **Markdown:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
-* **Git, Github <i class="fa fa-github fa-fw aria-hidden="true"></i> y Gitlab <i class="fa fa-gitlab fa-fw aria-hidden="true""></i>:** Manejo de versiones de programas y proyectos de programación.
+* **Git, Github <i class="fa fa-github fa-fw" aria-hidden="true"></i> y Gitlab <i class="fa fa-gitlab fa-fw" aria-hidden="true""></i>:** Manejo de versiones de programas y proyectos de programación.
 * **CDO <i class="fa fa-linux fa-fw" aria-hidden="true"></i>:** Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
 * **Excel:** Manejo de datos, Programación en Visual Basic, Tablas Dinámicas.
 * **PowerPoint:** Presentaciones de datos, estadísticas y Infografías.
