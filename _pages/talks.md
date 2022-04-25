@@ -11,7 +11,8 @@ Exposición tipo poster:
 
 * **XVII Seminario Nacional de Ciencias y Tecnologías del Mar**. *Barranquilla*, Colombia.
 
-Expositor:
+<i class="fa fa-presentation-screen fa-fw"></i> Expositor:
+
   * Riesgo de colisión entre la ballena jorobada (*Megaptera novaeangliae*) y buques de carga en el Pacífico colombiano: Los **SIG** como herramienta de evaluación.
    
 
