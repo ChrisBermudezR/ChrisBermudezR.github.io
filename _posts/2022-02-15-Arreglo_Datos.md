@@ -21,6 +21,8 @@ En este *post* explicaré el manejo de algunos tipos de datos básicos en el len
 
 # Definición de  Variables y Objetos.
 
+<i class="fa fa-code fa-fw"></i>
+
 ## Variables.
 
 En programación, un concepto básico es el de variable. Una variable se define como una *"cosa"* que es susceptible de ser modificada, de cambiar, en función de un evento que puede ser determinado o indeterminado. 
