@@ -11,9 +11,9 @@ redirect_from:
 
 Formación Académica
 ======
-* Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/cv/Certificado_Especializacion_SIG.pdf).
-* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011.  [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/cv/Acta_grado_magister.pdf).
-* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005.  [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/cv/Acta_grado_profesional.pdf).
+* Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012. 
+* M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011.  
+* B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005.  
 
 Experiencia Profesional
 ======
@@ -28,15 +28,15 @@ Habilidades
 
 * **ArcGIS:** Geoprocesamientos, Análisis Espacial, Análisis de Imágenes Satelitales.
 * **QGIS:** Geoprocesamientos, Análisis Espacial, Análisis de Imagenes Satelitales.
-* **R Studio:** Programación en el lenguaje de R, Análisis espaciales y estadísticos Uni y Multivariado, Manejo de Imagenes, Sonido y Video.
+* <i class="fa-brands fa-r-project"></i> Programación en el lenguaje de R, Análisis espaciales y estadísticos Uni y Multivariado, Manejo de Imagenes, Sonido y Video.
 * **Matlab:** Programación en el lenguaje de Matlab, Análisis de datos oceanográficos.
-* **Anaconda:** Programación en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
-* **Markdown:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
-* **Git:** Manejo de versiones de programas y proyectos de programación.
-* **CDO LINUX:** Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
-* **Excel:** Manejo de datos, Programación en Visual Basic, Tablas Dinámicas.
-* **PowerPoint:** Presentaciones de datos, estadísticas y Infografías.
-* **Word:** Produccióon de textos con referencias internas y externas, Manejo avanzado de tablas y referencias bibliográficas.
+* <i class="fa-brands fa-python"></i> Programación en el lenguaje de Python, Análisis estadísticos Uni y Multivariado.
+* <i class="fa-brands fa-markdown"></i> Producción de textos para artículos científicos, Tesis de Grado e Informes.
+* <i class="fa-brands fa-git"></i> Manejo de versiones de programas y proyectos de programación.
+* **CDO <i class="fa-brands fa-linux"></i>** Análisis de datos en NetCDF, Cálculos y Análsis estadísticos de datos Oceano-atmosféricos.
+* **Excel:**<i class="fa-solid fa-file-excel"></i> Manejo de datos, Programación en Visual Basic, Tablas Dinámicas.
+* **PowerPoint:**<i class="fa-solid fa-file-powerpoint"></i> Presentaciones de datos, estadísticas y Infografías.
+* **Word:** <i class="fa-solid fa-file-word"></i> Produccióon de textos con referencias internas y externas, Manejo avanzado de tablas y referencias bibliográficas.
 * **LaTex:** Producción de textos para artículos científicos, Tesis de Grado e Informes.
 
 Idiomas
@@ -68,19 +68,16 @@ Exactas, Tumaco, Nariño, Colombia.
 
 * **Oct 2015** Curso "*Train-the-trainer*" *Seminar on Port State Control under the Ballast Water Management Convention with Emphasis on Sampling and Analysis of Ballast Water*. ***International Maritime Organization***, Duluth, Estados Unidos.
 
- [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/vf7zwm647e7oxnl/2015_Trainer_Omi.pdf?dl=0)
-
+ 
 * **May 2015** Oceanografía por Sensores Remotos, a cargo de la DRA. Angélica Gutierrez Magness de la *National Oceanic and Atmosferic Administration* - *NOAA*, Cartagena de Indias,
 Bolivar, Colombia.
 
- [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/heszut74aykh2rx/2015_Oceanografia_Sensores_Remotos.pdf?dl=0)
-
+ 
 * **Feb 2014** Capacitación sobre Datos LiDAR, dictada por la Dra. Victoria Achatz, UNIGIS América Latina, Tumaco Nariño, Colombia.
 Nov 2013 Fundamentos de Infraestructura de datos espaciales, a cargo del Centro de
 Investigación y Desarrollo en Información Geográfica – IGAC, Tumaco Nariño, Colombia.
 
- [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/r67wksjdiy63lcj/2014_LiDAR.pdf?dl=0).
-
+ 
 * **Oct 2013** Sistemas de información geográfica aplicado al ordenamiento territorial, a cargo
 del Centro de Investigación y Desarrollo en Información Geográfica – IGAC, Tumaco
 Nariño, Colombia.
@@ -103,8 +100,6 @@ Archivos descargables del *Resumé* y el *Curriculum Vitae*
 Descarga una copia en PDF de mi Resumé [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/Resume.pdf).
 
 # ***Curriculum Vitae***
-
-<iframe src="/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 Descarga una copia en PDF de mi CV [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](/files/CV.pdf).
 
