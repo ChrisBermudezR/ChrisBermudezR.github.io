@@ -24,7 +24,7 @@ permalink: /publications/
 ### 2010
 * Abadía, J. C., **Bermúdez, C.**, Lozano-Zambrano, F. H., & Chacon, P. (2010). Hunter ants in a sub-Andean landscape of Colombia: richness, composition, and indicator species. Revista Colombiana de Entomología, 36(1), 127-134. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/2ijhv3g83nml8a3/Abadia_etal_2010%20.pdf?dl=0)
 
-* Bota-Sierra, C. A., Baena-Bejarano, N., & **Bermúdez, C.** (2010). Primeros registros de Gomphomacromia fallax (Odonata: Corduliidae) en Colombia. Revista Colombiana de Entomología, 36(2), 333-334. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/8ksgqavjktj4hrw/Bota-Sierra_etal_2010.pdf?dl=0)
+* Bota-Sierra, C. A., Baena-Bejarano, N., & **Bermúdez, C.** (2010). Primeros registros de *Gomphomacromia fallax* (Odonata: Corduliidae) en Colombia. Revista Colombiana de Entomología, 36(2), 333-334. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/8ksgqavjktj4hrw/Bota-Sierra_etal_2010.pdf?dl=0)
 
 * Vásquez-Vélez, L. M., **Bermúdez, C.**, Chacón, P., & Lozano-Zambrano, F. H. (2010). Analysis of the richness of Staphylinidae (Coleoptera) on different scales of a sub-Andean rural landscape in Colombia. Biodiversity and conservation, 19(7), 1917-1931. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/a8q2eo8pfd5k3vh/Vasquez-Velez_et%20al_2010.pdf?dl=0)
 
