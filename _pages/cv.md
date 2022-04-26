@@ -48,20 +48,24 @@ Inglés: *Listening* **C2**, *Speaking* **B1**, *Reading* **C2**, *Writing* **B1
 
 Estudios Particulares
 ===
+* **Mar 2022** Curso Metodología de la Programación de Sistemas Informáticos. Servicio NAcional de Aprendizaje - Sena. Plataforma Virtual SENA SOFIA. Centro de Automatización Industrial, Regional Caldas, Manizales, Colombia.
+
 * **Mar 2022** Curso "Construcción de escenarios de cambio climático para la toma de decisiones". Espacio académico intereactivo del Programa de Investigación en Cambio Climático de la Universidad Nacional Autónoma de México. Asistencia Virtual.  
 
 * **Dic 2020** Curso de Variables Oceanográficas, a cargo de la Facultad de Oceanografía Física de la Escuela Naval de Cadetes ”Almirante Padilla”, Cartagena de Índias, Bolivar, Colombia.
 
 * **Nov 2020** Curso de Análisis Univariado, a cargo de la Facultad de Oceanografía Física de la
-Escuela Naval de Cadetes ”Almirante Padilla”, Cartagena de Índias, Bolivar, Colombia
+Escuela Naval de Cadetes ”Almirante Padilla”, Cartagena de Índias, Bolivar, Colombia.
+
+* **Jul 2012** Curso para Empleados de Carrera Administrativa Sujetos al Sistema Tipo de Evaluación de la CNSC. Servicio NAcional de Aprendizaje - Sena. Plataforma Virtual SENA SOFIA. Centro de para el Desarrollo Agroecológico y Agroindustrial, Regional Atlántico, Barranquilla, Colombia.
 
 * **Ago 2018** Curso Pre-Antártico 2018, a cargo de la Dirección General Marítima, La Comisión
 Colombiana del Océano, El Programa Antártico Colombiano y la Escuela Naval de Cadetes Almirante Padilla, Cartagena de Índias, Bolivar, Colombia
 
-* **Abr 2018** Taller Actualización del Proceso de Protección del Medio Marino, a cargo de la Dirección General Marítima, Bogotá D.C., Colombia
+* **Abr 2018** Taller Actualización del Proceso de Protección del Medio Marino, a cargo de la Dirección General Marítima, Bogotá D.C., Colombia.
 
 * **Jun 2017** Administración de Datos Biogeográficos Marinos (Contribuyendo al Uso de
-OBIS), a cargo del Dr. Julián José Pizarro-Pertuz, Ocean Teacher Global Academy IODE, UNESCO, Instituto de Investigaciones Marinas y Costeras - INVEMAR, Santa Marta, Magdalena, Colombia
+OBIS), a cargo del Dr. Julián José Pizarro-Pertuz, Ocean Teacher Global Academy IODE, UNESCO, Instituto de Investigaciones Marinas y Costeras - INVEMAR, Santa Marta, Magdalena, Colombia.
 
 * **Ene 2017** Curso de Herramientas Estadísticas para el Análisis de Datos Oceanográficos y
 Meteorológicos, a cargo de la Universidad del Valle, Facultad de Ciencias Naturales y
