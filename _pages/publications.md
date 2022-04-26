@@ -49,10 +49,4 @@ permalink: /publications/
 
 * Arcila, A., Osorio, A. M., **Bermúdez, C.**, & Chacón De Ulloa, P. (2008). Diversidad de hormigas cazadoras asociadas a los elementos del paisaje del bosque seco. In F. Lozano-Zambrano, F. Fernández, E. Jiménez, & T. Arias (Eds.), Sistemática, biogeografía y conservación de las hormigas cazadoras de Colombia. (pp. 531–552). Instituto de recursos biológicos Alexander von Humboldt. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/sbw0f2wx916xt7l/Arcila_etal_2008.pdf?dl=0)
 
-
-
-
-<img src = "\files\svg\researchgate-square.svg" alt="Mi SVG feliz" width="50px" height="50px"/>
-
-
 <img src="Banner02.png" style="width: 100%" />
