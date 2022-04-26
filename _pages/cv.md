@@ -48,7 +48,7 @@ Inglés: *Listening* **C2**, *Speaking* **B1**, *Reading* **C2**, *Writing* **B1
 
 Estudios Particulares
 ===
-* **Mar 2022** Curso Metodología de la Programación de Sistemas Informáticos. Servicio NAcional de Aprendizaje - Sena. Plataforma Virtual SENA SOFIA. Centro de Automatización Industrial, Regional Caldas, Manizales, Colombia.
+* **Mar 2022** Curso Metodología de la Programación de Sistemas Informáticos. Servicio Nacional de Aprendizaje - Sena. Plataforma Virtual SENA SOFIA. Centro de Automatización Industrial, Regional Caldas, Manizales, Colombia.
 
 * **Mar 2022** Curso "Construcción de escenarios de cambio climático para la toma de decisiones". Espacio académico intereactivo del Programa de Investigación en Cambio Climático de la Universidad Nacional Autónoma de México. Asistencia Virtual.  
 
@@ -57,7 +57,7 @@ Estudios Particulares
 * **Nov 2020** Curso de Análisis Univariado, a cargo de la Facultad de Oceanografía Física de la
 Escuela Naval de Cadetes ”Almirante Padilla”, Cartagena de Índias, Bolivar, Colombia.
 
-* **Jul 2012** Curso para Empleados de Carrera Administrativa Sujetos al Sistema Tipo de Evaluación de la CNSC. Servicio NAcional de Aprendizaje - Sena. Plataforma Virtual SENA SOFIA. Centro de para el Desarrollo Agroecológico y Agroindustrial, Regional Atlántico, Barranquilla, Colombia.
+* **Jul 2019** Curso para Empleados de Carrera Administrativa Sujetos al Sistema Tipo de Evaluación de la CNSC. Servicio Nacional de Aprendizaje - Sena. Plataforma Virtual SENA SOFIA. Centro de para el Desarrollo Agroecológico y Agroindustrial, Regional Atlántico, Barranquilla, Colombia.
 
 * **Ago 2018** Curso Pre-Antártico 2018, a cargo de la Dirección General Marítima, La Comisión
 Colombiana del Océano, El Programa Antártico Colombiano y la Escuela Naval de Cadetes Almirante Padilla, Cartagena de Índias, Bolivar, Colombia
