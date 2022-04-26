@@ -110,7 +110,6 @@ Otra condición necesaria para asignar nombres es que estos siempre deben empeza
 ```json
 3_clientes = 34
 Error: unexpected input in "3_"
-
 ```
 
 
@@ -140,7 +139,6 @@ manzanas= 56
 peras= 45
 manzanas + peras
 [1] 101
-
 ```
 
 
@@ -235,9 +233,7 @@ Asignar el valor de 5600 a un objeto que se llame R34.
 Corregir el problema de asignación de valores en el siguiente código.
 
 ```json
-
 valor-> 4
-
 ```
 
 
@@ -256,8 +252,3 @@ Asignar un valor numérico a un objeto que se llame Z435T y sumarlo al objeto R3
 ## Reto
 
 Comparar los objetos del ejercicio anterior y determinar si son iguales, mayor que o menor que y obtener las respuestas como datos lógicos.
-
-
-
-
-
