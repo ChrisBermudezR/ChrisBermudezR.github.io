@@ -11,9 +11,9 @@ redirect_from:
 
 Formación Académica
 ======
-* <svg version="1.1" width="20px" height="20px"  xmlns="\files\svg\Sena.svg"></svg>Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012. 
-* <svg version="1.1" width="20px" height="20px"  xmlns="\files\svg\Univalle.svg"></svg>M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011.  
-* <svg version="1.1" width="20px" height="20px"  xmlns="\files\svg\Univalle.svg"></svg>B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005.  
+* <img src = "\files\svg\Sena.svg" width="20px" height="20px"/>Esp. Desarrollo de Sistemas de Información Geográfica, [Servicio Nacional de Aprendizaje - SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx), 2012. 
+* <img src = "\files\svg\Sena.svg" width="20px" height="20px"/>M.S. Ciencias Biológicas, [Universidad del Valle](https://www.univalle.edu.co/), 2011.  
+* <img src = "\files\svg\Sena.svg" width="20px" height="20px"/>B.S. Biología, [Universidad del Valle](https://www.univalle.edu.co/), 2005.  
 
 Experiencia Profesional
 ======
