@@ -26,7 +26,7 @@ Exposición tipo poster:
 Expositor:
 * Building an Evaluation Model with GIS for Colombia's Marine Protected Areas. [<i class="fa fa-link fa-fw"></i>](https://www.youtube.com/watch?v=u0s8yO-Evw8)
 
-* Evalueting the collision risk between whales and ships: A GIS as a tool for management.
+* Evaluating the collision risk between whales and ships: A GIS as a tool for management.
 
 ### 2016 
 * **Conferencia de Usuarios ESRI-CCU**. *Bogotá*, Colombia.
