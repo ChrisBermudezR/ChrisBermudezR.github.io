@@ -57,7 +57,7 @@ En el lenguaje de programación R, los objetos pueden adquirir muchísimas forma
 
 Para asignar un valor de una variable de cualquier tipo a un objeto, se pueden utilizar los símbolos <- ó = de la siguiente manera:
 
-```json
+```r
 a <- 4 
 a = 4
 ```
@@ -67,7 +67,7 @@ Cualquiera de la dos formas de asignación de valores a un objeto, tendrá el mi
 
 Para llamar el objeto a que creamos con el valor 4, se debe solo digitar el nombre del objeto en la consola de la siguiente manera.
 
-```json
+```r
 a
 [1] 4
 ```
@@ -77,7 +77,7 @@ Esto índica que el objeto a tiene un valor de 4.
 
 El símbolo **<-** se conoce como *"become"* que en inglés significa **"Convertirse en"**. Sin embargo, también puede interpretarse como una flecha que apunta hacia la dirección de la asignación, ya que podemos asignar valores con el símbolo **->** de la siguiente manera:
 
-```json
+```r
 4->a
 ```
 
@@ -86,7 +86,7 @@ Lo anterior, también asigna el valor 4 al objeto a como en el primer código.
 
 Una vez que se tiene creado un objeto, a este se le puede aplicar cualquier operación como la siguiente:
 
-```json
+```r
 a + 6
 [1] 10
 ```
@@ -96,7 +96,7 @@ Lo que obtenemos a partir de esta operación, que matemáticamente no tiene sent
 
 Los objetos se les puede nombrar de cualquier manera pero con algunas restricciones. Un objeto puede tener un nombre largo como por ejemplo *Inversiones* y se le puede asignar cualquier valor o conjunto de valores. Sin embargo, la forma de nombrar objetos tiene restricciones de tipo **valor**, esto quiere decir que un objeto no puede ser nombrado con un valor numérico, pero si con un valor simbólico. Para ser mas claro, no se puede nombrar un objeto para la variable 4 con un valor numérico de 3, porque se generaría un error lógico asi:
 
-```json 
+```r 
 3=4
 Error in 3 = 4 : lado izquierdo de la asignación inválida (do_set)
 ```
@@ -107,7 +107,7 @@ Este error significa que no se puede asignar el valor izquierdo (*inválido (do_
 
 Otra condición necesaria para asignar nombres es que estos siempre deben empezar con una letra:
 
-```json
+```r
 3_clientes = 34
 Error: unexpected input in "3_"
 ```
@@ -115,7 +115,7 @@ Error: unexpected input in "3_"
 
 Este error indica que no es esperado la entrada *3_*, lo cuál debe ser corregido asignando cualquier tipo de letra antes que el número:
 
-```json 
+```r 
 A3_clientes = 34
 A3_clientes 
 [1] 34
@@ -124,7 +124,7 @@ A3_clientes
 
 Este código asigna el valor 34 al objeto A3_clientes, pero si el nombre tuviera un símbolo o caracter especial, este no podría ser asignado, com por ejemplo:
 
-```json 
+```r 
 A3_)clientes = 34
 Error: inesperado ')' in "A3_)"
 ```
@@ -134,7 +134,7 @@ Este error sugiere que en el código no tiene sentido el símbolo ")" ya que est
 
 En el lenguaje de programación de R, existe una posibilidad contraintuitiva que nos plantearon en nuestras clases de matemáticas básicas cuando eramos niños, la posibilidad de sumar peras con manzanas. Esto solo es posible a través de la creación de objetos como lo veremos a continuación.
 
-```json
+```r
 manzanas= 56
 peras= 45
 manzanas + peras
@@ -146,7 +146,7 @@ Lo anterior solo es posiible porque las manzanas y las peras son objetos con val
 
 Un objeto también puede ser creado a partir del resultado de una operación de dos objetos, de la siguiente manera:
 
-```json
+```r
 resultado<-manzanas - peras
 resultado
 [1] 11
@@ -170,7 +170,7 @@ Los números reales en el lenguaje de R se representan con el tipo *numeric* (*e
 
 Los números enteros se representan a través de un tipo de número especial llamado *Integer* (*e.g.* 7). Para especificar que un número es entero, se debe anadir la letra L en mayuscula como sufijo. 
 
-```json
+```r
 cuarenta<-40L
 cuarenta
 [1] 40
@@ -182,7 +182,7 @@ cuarenta
 
 Cualquier dato alfanumérico o cadenas (*strings*) y que no sea exclusivamente un número es interpretado como un *character*. Un ejemplo de esto es:
 
-```json
+```r
 "Aprendiendo R"
 ```
 
@@ -195,7 +195,7 @@ El tipo de datos lógicos es la forma para los datos binarios y se conocen como 
 
 
 
-```json
+```r
 10 > 5
 [1] TRUE
 ```
@@ -204,7 +204,7 @@ El tipo de datos lógicos es la forma para los datos binarios y se conocen como 
 
 Muchas veces cuando se realizan tomas de muestras, algunos datos no es posible tomarlos o estos pueden perderse. Para indicarle al lenguaje de programación sobre esta situación se debe establecer un valor para estos datos. Por lo general se utiliza el símbolo NA que traduce *"Not Available"*. 
 
-```json
+```r
 A=NA
 A
 [1] NA
@@ -214,7 +214,7 @@ A
 
 Los datos temporales son datos complejos que pueden presentar retos de manejo en los diferentes conjuntos de datos. Estos por lo general se basan en diferentes calendarios, horas, días, o meses; y esto hay que tenerlo en cuenta a la hora de calcular la fecha y la hora inicial. Como introducción por el momento se mostrará una forma de crear datos temporales, pero mas adelante se tratará el tema a fondo
 
-```json
+```r
 as.Date("2021-06-19")
 [1] "2021-06-19"
 ```
@@ -232,7 +232,7 @@ Asignar el valor de 5600 a un objeto que se llame R34.
 
 Corregir el problema de asignación de valores en el siguiente código.
 
-```json
+```r
 valor-> 4
 ```
 
