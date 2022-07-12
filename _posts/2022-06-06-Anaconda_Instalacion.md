@@ -8,7 +8,7 @@ tags:
   - Python
   - R
 ---
-<img src = "\files\svg\anaconda.svg" alt="Anaconda. " width="100px" height="50px"/> En este *post* explicaré cómo instalar el Anaconda *Navigator* en Windows y cómo establecer un *Environment* de trabajo basado en **Python**, **R** o ambos.
+<img src = "\files\svg\anaconda.svg" alt="Anaconda. " width="50px" height="25px"/> - En este *post* explicaré cómo instalar el Anaconda *Navigator* en Windows y cómo establecer un *Environment* de trabajo basado en **Python**, **R** o ambos.
 
 
 
