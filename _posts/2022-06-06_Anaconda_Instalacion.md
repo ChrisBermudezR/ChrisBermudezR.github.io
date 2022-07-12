@@ -1,20 +1,20 @@
 ---
 title: 'Instalación del Anaconda *Navigator*'
 date: 2022-06-07
-permalink: /posts/2022/06/
+permalink: /posts/2022/02/blog-post/
 tags:
   - Lenguajes de Programación
   - IDE
   - Python
   - R
 ---
+<img src = "\files\svg\anaconda.svg" alt="Anaconda. " width="100px" height="50px"/> En este *post* explicaré cómo instalar el Anaconda *Navigator* en Windows y cómo establecer un *Environment* de trabajo basado en **Python**, **R** o ambos.
+
+
 
 - [Instalación del Anaconda](#instalación-del-anaconda-navigator)
     - [¿Qué es Anaconda?.](#¿qué-es-anaconda)
     - [¿Qué es Anaconda *Navigator*?](#¿qué-es-anaconda-navigator)
-
-<img src = "\files\svg\anaconda.svg" alt="Anaconda. " width="100px" height="50px"/> En este *post* explicaré cómo instalar el Anaconda *Navigator* en Windows y cómo establecer un *Environment* de trabajo basado en **Python**, **R** o ambos.
-
 # Instalación del Anaconda *Navigator*.
 
 ## ¿Qué es Anaconda?.
