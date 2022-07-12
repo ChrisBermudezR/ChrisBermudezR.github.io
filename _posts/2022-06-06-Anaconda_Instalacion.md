@@ -15,6 +15,8 @@ tags:
 - [Instalación del Anaconda](#instalación-del-anaconda-navigator)
     - [¿Qué es Anaconda?.](#¿qué-es-anaconda)
     - [¿Qué es Anaconda *Navigator*?](#¿qué-es-anaconda-navigator)
+
+    
 # Instalación del Anaconda *Navigator*.
 
 ## ¿Qué es Anaconda?.
