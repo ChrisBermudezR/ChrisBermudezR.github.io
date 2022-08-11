@@ -78,7 +78,7 @@ Algunas veces al instalar el Anaconda *Navigator* encontramos algunos problemas,
 
 Para corregir esto, podemos usar el **Anaconda Prompt (Anaconda3)** y verificar si Anaconda *Navigator* está bien instalado. Para esto podemos desplegar los paquetes instalados con el siguiente comando:
 
-```conda
+```
 conda list
 ```
 
