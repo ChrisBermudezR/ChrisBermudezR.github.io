@@ -50,15 +50,15 @@ Las aplicaciones que se pueden encontrar en Anaconda *Navigator* son las siguien
 
 Debemos ir a la página de  [Anaconda](https://www.anaconda.com/) y descargamos el ejecutable en el siguiente link:
 
-[![](https://www.dropbox.com/s/s2yk72ubj4l7qxv/Fig01.png?dl=0)](https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe)
+![](https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe)
 
 Una vez descargado el archivo y se ejecuta le damos *next*:
 
-![](https://www.dropbox.com/s/1qnztgmz369mqsu/Fig02.png?dl=0)
+![](Python/Anaconda/Instalar_Anaconda/Fig01.png)
 
 Aceptamos la licencia de uso:
 
-![](Fig03.png)
+![]()
 
 Por seguridad en el equipo se debe escoger el uso simple:
 
