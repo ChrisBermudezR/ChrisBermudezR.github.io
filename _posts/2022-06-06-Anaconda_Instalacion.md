@@ -85,7 +85,7 @@ conda list
 Si Anaconda *Navigator* está instalado correctamente, se desplegará el listado de paquetes instalados.
 
 
-```conda
+```
 # packages in environment at C:\Users\cbermudezr\Anaconda3:
 #
 # Name                    Version                   Build  Channel
@@ -100,7 +100,7 @@ anaconda                  custom                   py38_1
 
 Otra forma de verificarlo es lanzando el lenguaje de programación python con el comando: ```python```. Este comando lanzará el *shell* de Python y si Anaconda está bien instalado , desplegará la información de la versión incluyendo el termino "Anaconda":
 
-```conda
+```
 Python 3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
@@ -117,7 +117,7 @@ Algunas veces este último paso falla  y debemos reparar la vía de acceso del A
 
 Se debe abrir el Anaconda *prompt* y una vez abierto se debe ejecutar el comando:
 
-```conda
+```
 conda update conda
 ```
 
@@ -125,7 +125,7 @@ conda update conda
 
 Una vez terminado este comando se debe ejecutar el siguiente comando:
 
-```conda
+```
 conda update anaconda-navigator
 ```
 
@@ -133,7 +133,7 @@ conda update anaconda-navigator
 
 El siguiente paso será ejecutar el siguiente comando:
 
-```conda
+```
 anaconda-navigator --reset
 ```
 
@@ -141,7 +141,7 @@ anaconda-navigator --reset
 
 Ahora se ejecuta el comando:
 
-```conda
+```
 conda update anaconda-client
 ```
 
@@ -149,7 +149,7 @@ conda update anaconda-client
 
 Por último se ejecuta el comando:
 
-```conda
+```
 conda update -f anaconda-client
 ```
 
@@ -180,13 +180,13 @@ Dándole click a *New* se puede crear un cuaderno de *****Jupyter notebook***** 
 ![](https://www.dropbox.com/s/7fmokkyfjb9cq28/Fig08.png?dl=1)
 
 ### R
-Para que **R** se pueda desplegar en Anaconda *Navigator* hay instalar varias aplicaciones con el ```conda```. Por lo general Anaconda *Navigator* trae instalado por defecto la versión 3.6.1, pero si se desea trabajar con la última versión se debe crear una ambiente vacío dentro de ```conda``` y luego dentro de este ambiente vacío se debe instalar la versión de R deseada.
+Para que **R** se pueda desplegar en Anaconda *Navigator* hay instalar varias aplicaciones con el ``````. Por lo general Anaconda *Navigator* trae instalado por defecto la versión 3.6.1, pero si se desea trabajar con la última versión se debe crear una ambiente vacío dentro de `````` y luego dentro de este ambiente vacío se debe instalar la versión de R deseada.
 
 Los pasos para crear una ambiente vacío son los siguientes:
 
 Se debe abrir el Anaconda Prompt (Anaconda3) y se ejecutan los siguientes comandos uno por uno:
 
-```conda
+```
 conda deactivate
 conda create --name R4-Base #R4-Base es el nombre que se le dió a este ambiente. Se puede usar cualquier otro nombre.
 conda activate R4-Base
@@ -197,24 +197,24 @@ conda activate R4-Base
 Despues de crear el ambiente vacío y activarlo con el último comando, se debe instalar la versión deseada del R con los siguientes comandos:
 
 
-```conda
+```
 conda install -c conda-forge r-base
 conda install -c conda-forge/label/gcc7 r-base
 ```
 ![](https://www.dropbox.com/s/a32otixy83k3dzx/Vid09.gif?dl=1)
 
-```conda
+```
 conda install -c conda-forge/label/broken r-base
  ```
 
 ![](https://www.dropbox.com/s/cm21hr8d8sdhsrg/Vid10.gif?dl=1)
 
-```conda
+```
 conda install -c conda-forge/label/cf201901 r-base
  ```
 ![](https://www.dropbox.com/s/wfroqwwkxa3pq5u/Vid11.gif?dl=1)
 
-```conda
+```
 conda install -c conda-forge/label/cf202003 r-base 
 ```
 
@@ -222,7 +222,7 @@ conda install -c conda-forge/label/cf202003 r-base
 
 Finalizado la creación e instalación de las bases de **R** se puede instalar la versión deseada por medio del siguiente comando:
 
-```conda
+```
 conda install -c conda-forge r-base=4.X.X   #Con este comando puede escoger la versión del R que se desee instalar
 ```
 
