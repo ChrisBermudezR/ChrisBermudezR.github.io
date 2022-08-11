@@ -54,23 +54,23 @@ Debemos ir a la página de  [Anaconda](https://www.anaconda.com/) y descargamos 
 
 Una vez descargado el archivo y se ejecuta le damos *next*:
 
-![](Python/Anaconda/Instalar_Anaconda/Fig01.png)
+![](https://www.dropbox.com/s/1qnztgmz369mqsu/Fig02.png?dl=1)
 
 Aceptamos la licencia de uso:
 
-![]()
+![](https://www.dropbox.com/s/ezrtsecft76qk8a/Fig03.png?dl=1)
 
 Por seguridad en el equipo se debe escoger el uso simple:
 
-![](Fig04.png)
+![](https://www.dropbox.com/s/q7eu3hag67zr529/Fig04.png?dl=1)
 
 Seleccionamos un folder de instalación preferiblemente con una ruta que no contenga espacios y luego seleccionamos registrar Anaconda3 como python 3.9 por defecto. Damos *next* hasta finalizar la instalación:
 
-![](Vid01.gif)
+![](https://www.dropbox.com/s/43o06q9nsdcy9fp/Vid01.gif?dl=1)
 
 Una vez instalada podemos encontrar la aplicación en el menú de inicio en la carpeta **Anaconda3 (64-bit)**.
 
-![](Fig05.png)
+![](https://www.dropbox.com/s/67fagm7zayz7hg7/Fig05.png?dl=1)
 
 ## Problemas con la instalación.
 
@@ -110,7 +110,7 @@ Para cerrar este *shell* se debe ejecutar el comando ```quit()```.
 
 Otra forma de corroborar la instalación es tratando de abrir el Anaconda *Navigator* con el comando ```anaconda-navigator```. Si Anaconda está bien instalado, se lanzará el Navegador:
 
-![](Fig06.png)
+![](https://www.dropbox.com/s/3ew2p81wdlphu0m/Fig06.png?dl=1)
 
 
 Algunas veces este último paso falla  y debemos reparar la vía de acceso del Anaconda *Navigator*, esto se puede hacer con una serie de pasos que llevará a la actualización de la versión, solucionando el problema.
@@ -120,7 +120,8 @@ Se debe abrir el Anaconda *prompt* y una vez abierto se debe ejecutar el comando
 ```conda
 conda update conda
 ```
-![](Vid02.gif)
+
+![](https://www.dropbox.com/s/yksarc5mbt46zur/Vid02.gif?dl=1)
 
 Una vez terminado este comando se debe ejecutar el siguiente comando:
 
@@ -128,7 +129,7 @@ Una vez terminado este comando se debe ejecutar el siguiente comando:
 conda update anaconda-navigator
 ```
 
-![](Vid03.gif)
+![](https://www.dropbox.com/s/q0x8lflfnhm70ez/Vid03.gif?dl=1)
 
 El siguiente paso será ejecutar el siguiente comando:
 
@@ -136,7 +137,7 @@ El siguiente paso será ejecutar el siguiente comando:
 anaconda-navigator --reset
 ```
 
-![](Vid04.gif)
+![](https://www.dropbox.com/s/31ffciwh3tbkgip/Vid04.gif?dl=1)
 
 Ahora se ejecuta el comando:
 
@@ -144,7 +145,7 @@ Ahora se ejecuta el comando:
 conda update anaconda-client
 ```
 
-![](Vid05.gif)
+![](https://www.dropbox.com/s/vqch10d0vwibxd4/Vid05.gif?dl=1)
 
 Por último se ejecuta el comando:
 
@@ -152,7 +153,7 @@ Por último se ejecuta el comando:
 conda update -f anaconda-client
 ```
 
-![](Vid06.gif)
+![](https://www.dropbox.com/s/1ey1e5e2g46dknh/Vid06.gif?dl=1)
 
 ## Creando ambientes de trabajo (*Environments*).
 
@@ -168,15 +169,15 @@ Para instalar el paquete necesario para desplegar **Julia** en Anaconda y ***jup
 using Pkg
 Pkg.add("IJulia")
 ```
-![](Vid07.gif)
+![](https://www.dropbox.com/s/yx06w651bdp8ffi/Vid07.gif?dl=1)
 
 Una vez instalado el paquete se puede observar en la pestaña *New* del *****Jupyter notebook***** la instalación de Julia y su número de versión.
 
-![](Fig07.png)
+![](https://www.dropbox.com/s/o9agqwg88cs3v8m/Fig07.png?dl=1)
 
 Dándole click a *New* se puede crear un cuaderno de *****Jupyter notebook***** para trabajar con el lenguaje Julia.
 
-![](Fig08.png)
+![](https://www.dropbox.com/s/7fmokkyfjb9cq28/Fig08.png?dl=1)
 
 ### R
 Para que **R** se pueda desplegar en Anaconda *Navigator* hay instalar varias aplicaciones con el ```conda```. Por lo general Anaconda *Navigator* trae instalado por defecto la versión 3.6.1, pero si se desea trabajar con la última versión se debe crear una ambiente vacío dentro de ```conda``` y luego dentro de este ambiente vacío se debe instalar la versión de R deseada.
@@ -191,7 +192,7 @@ conda create --name R4-Base #R4-Base es el nombre que se le dió a este ambiente
 conda activate R4-Base
 
 ```
-![](Vid08.gif)
+![](https://www.dropbox.com/s/pno74jyk3wrdpuh/Vid08.gif?dl=1)
 
 Despues de crear el ambiente vacío y activarlo con el último comando, se debe instalar la versión deseada del R con los siguientes comandos:
 
@@ -200,24 +201,24 @@ Despues de crear el ambiente vacío y activarlo con el último comando, se debe 
 conda install -c conda-forge r-base
 conda install -c conda-forge/label/gcc7 r-base
 ```
-![](Vid09.gif)
+![](https://www.dropbox.com/s/a32otixy83k3dzx/Vid09.gif?dl=1)
 
 ```conda
 conda install -c conda-forge/label/broken r-base
  ```
 
-![](Vid10.gif)
+![](https://www.dropbox.com/s/cm21hr8d8sdhsrg/Vid10.gif?dl=1)
 
 ```conda
 conda install -c conda-forge/label/cf201901 r-base
  ```
-![](Vid11.gif)
+![](https://www.dropbox.com/s/wfroqwwkxa3pq5u/Vid11.gif?dl=1)
 
 ```conda
 conda install -c conda-forge/label/cf202003 r-base 
 ```
 
-![](Vid12.gif)
+![](https://www.dropbox.com/s/h3shj3pnl3u3rtv/Vid12.gif?dl=1)
 
 Finalizado la creación e instalación de las bases de **R** se puede instalar la versión deseada por medio del siguiente comando:
 
@@ -229,14 +230,14 @@ Una vez hecha esta instalación, se  debe instalar los paquetes de R necesarios 
 
 Se debe activar la sesión de **R** en el ambiente creado, en este caso R4-Base:
 
-![](Vid13.gif)
+![](https://www.dropbox.com/s/4cforj9rb22zlyu/Vid13.gif?dl=1)
 
 Una vez dentro de la sesión de R activada se deben instalar los paquetes con los siguientes comandos:
 
 ```r
 install.packages(c("repr", "IRdisplay", "evaluate", "crayon", "pbdZMQ", "devtools", "uuid", "digest"))
 ```
-![](Vid14.gif)
+![](https://www.dropbox.com/s/v6he6ybp7bfkl7x/Vid14.gif?dl=1)
 
 
 Luego se instala el kernel.
@@ -245,7 +246,7 @@ Luego se instala el kernel.
 ```r
 install.packages("IRkernel")
 ```
-![](Vid15.gif)
+![](https://www.dropbox.com/s/cd3ethqwnuiv090/Vid15.gif?dl=1)
 
 Una vez instalado se hace disponible para el ***Jupyter notebook***.
 
@@ -253,24 +254,24 @@ Una vez instalado se hace disponible para el ***Jupyter notebook***.
 IRkernel::installspec()
 ```
 
-![](Vid16.gif)
+![](https://www.dropbox.com/s/wxfjlhn20w6towi/Vid16.gif?dl=1)
 
 
 Terminada la instalación de los paquetes, se debe salir de la sesión de **R** con el comando ```quit()``` y se procede a activar el ***Jupyter notebook*** con el comando ```jupyter notebook```:
 
-![](Vid17.gif)
+![](https://www.dropbox.com/s/9k1mdqfj357cjd8/Vid17.gif?dl=1)
 
 Una vez abierto el  ***Jupyter notebook*** se debe crear un nuevo "cuaderno" con el lenguaje **R**:
 
-![](Fig10.png)
+![](https://www.dropbox.com/s/hdkia60zrisbxd0/Fig10.png?dl=1)
 
 
 Una vez finalizados estos pasos, el Anaconda *Navigator* queda con un *Environment* que contiene la última versión del **R** y **Julia** y se pueden crear ***Jupyter notebooks*** que sean ejecutables con estos lenguajes.
 
 
-![](Fig11.png)
+![](https://www.dropbox.com/s/d0awlb4vcl1n1fl/Fig11.png?dl=1)
 
 
 Al desplegar el ***Jupyter notebook*** desde el Anaconda *Navigator* podemos corroborar que las sesiones se crean con el *R* version 4.1.3.
 
-![](Vid18.gif)
+![](https://www.dropbox.com/s/kiheve456ezqpxw/Vid18.gif?dl=1)
