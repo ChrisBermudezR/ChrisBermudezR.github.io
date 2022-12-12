@@ -4,6 +4,11 @@ permalink: /publications/
 
 ---
 # Artículos Científicos
+
+### 2022 
+* Molina-triana, F., **Bermúdez-Rivas, C.**, Parada-Gutíerrez, J. L., & Castrillón, F. A. (2022). Monitoreo de un octocoral invasor (*Carijoa riisei*) en las dos principales áreas portuarias de la cuenca Pacífico Colombiana. Acta Oceanográfica Del Pacífico, 4(2), 21–34. https://doi.org/10.54140/raop.v4i1.56
+
+* Hoyos-Acuña, J. J., Quintana-Manotas, H. L., **Bermúdez-Rivas, C.**, Castrillón-Valencia, F. A. (2023). Primer registro del género Metadinophysis Nie y Wang (Dinophyceae: Dinophysiales) en áreas costeras del Pacifico colombiano. Biota Colombiana, 24(1),  https://doi.org/10.21068/2539200X.1101
 ### 2021
 * Hoyos Acuña, J. J., Quintana-Manotas , H. L., **Bermúdez-Rivas, C.**, Molina Triana, A. F., Castrilllón Valencia, F. A., & Parada Gutiérrez , J. L. (2021). Listado de especies de fitoplancton en la bahía de Tumaco, Pacífico colombiano. Intropica, 16(2), Postprint. https://doi.org/10.21676/23897864.4064  [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/crevmiuftf7bvzp/Hoyos-Acuna_etal_2021.pdf?dl=0)
 
