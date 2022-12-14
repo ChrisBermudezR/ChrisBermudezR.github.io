@@ -48,6 +48,20 @@ Inglés: *Listening* **C2**, *Speaking* **B1**, *Reading* **C2**, *Writing* **B1
 
 Estudios Particulares
 ===
+* **Abr-Dic 2022** **Diplomado Habilidades en Programación con Énfasis en aplicaciones Móviles**. Instituto de Extensión e Investigación - IEI, Facultad de Ingeniería Universidad Nacional, Fondo Únido de Tecnologías de la Información y las Comunicaciones.
+
+* **Oct-Dic 2022**  **Ciclo 4: Profundización en Desarrollo de Aplicaciones Móviles**. Instituto de Extensión e Investigación - IEI, Facultad de Ingeniería Universidad Nacional, Fondo Únido de Tecnologías de la Información y las Comunicaciones.
+
+* **Sep 2022** $3^{er}$ Taller de Fortalecimiento de Capacidades en el Manejo de Colecciones Biológicas. Instituto de Recursos Biológicos "Alexander von Humboldt", Instituto de Ciencias Naturales y el Registro Único nacional de Colecciones Biolgógias.
+
+* **Ago-Oct 2022**  **Ciclo 3: Desarrollo de Software**. Instituto de Extensión e Investigación - IEI, Facultad de Ingeniería Universidad Nacional, Fondo Únido de Tecnologías de la Información y las Comunicaciones.
+
+* **Jul 2022** Modelo para la evaluación a Fenómenos Erosivos Costeroa y el papel de los Ecosistemas Estratégicos para la Disminución de Riesgos. Fondo Muncial Para la Naturaleza - WWF. Centro de Investigaciones Oceanográficas e Hidrográficas del Pacífico. 
+
+* **Jun-Ago 2022**  **Ciclo 2: Fundamentos de Programación - JAVA**. Instituto de Extensión e Investigación - IEI, Facultad de Ingeniería Universidad Nacional, Fondo Únido de Tecnologías de la Información y las Comunicaciones.
+
+* **Abr-Jun 2022**  **Ciclo 1: Fundamentos de Programación - PYTHON**. Instituto de Extensión e Investigación - IEI, Facultad de Ingeniería Universidad Nacional, Fondo Únido de Tecnologías de la Información y las Comunicaciones.
+
 * **Mar 2022** Curso Metodología de la Programación de Sistemas Informáticos. Servicio Nacional de Aprendizaje - Sena. Plataforma Virtual SENA SOFIA. Centro de Automatización Industrial, Regional Caldas, Manizales, Colombia.
 
 * **Mar 2022** Curso "Construcción de escenarios de cambio climático para la toma de decisiones". Espacio académico intereactivo del Programa de Investigación en Cambio Climático de la Universidad Nacional Autónoma de México. Asistencia Virtual.  

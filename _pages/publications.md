@@ -34,7 +34,6 @@ permalink: /publications/
 * Vásquez-Vélez, L. M., **Bermúdez, C.**, Chacón, P., & Lozano-Zambrano, F. H. (2010). Analysis of the richness of Staphylinidae (Coleoptera) on different scales of a sub-Andean rural landscape in Colombia. Biodiversity and conservation, 19(7), 1917-1931. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/a8q2eo8pfd5k3vh/Vasquez-Velez_et%20al_2010.pdf?dl=0)
 
 ### 2009
-
 * **Bermúdez, C.**, & López-Victoria, M. (2009). Primeros registros de libélulas (Odonata: Anisoptera) en la Isla Malpelo, Colombia. Revista Colombiana de Entomología, 35(2), 286-287. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/0r9ma6kgvef7if1/Bermudez_etal_2009%20.pdf?dl=0)
 
 ### 2005

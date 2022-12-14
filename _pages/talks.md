@@ -4,6 +4,16 @@ title: "Conferencias"
 ---
 ### 2022
 
+* **XIX Seminario Nacional de Ciencias y Tecnologías del Mar**, Cartagena, Colombia.
+
+Expositor:
+
+   Evaluación Del Riesgo Ptencial De Colisión De Embarcaciones Turísticas Con Cetáceos En La Zee Colombiana.
+
+Modelo InVest para evaluar el riesgo en los ecosistemas costeros: Maglares
+
+
+* **XIII Congreso Ssociedade Latino Americana de Especialistas em Mamíferos Aquáticos** Conservação na modalidade Comunicação oral na 19ª Reunião de Trabalho, Praia do Forte Bahía, Brasil
 
 ### 2021 
 * **International Congress Harmful Algae 2021** *Virtual Attendance*.
