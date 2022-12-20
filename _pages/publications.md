@@ -5,12 +5,14 @@ permalink: /publications/
 ---
 # Artículos Científicos
 
-### 2023
 
-* Hoyos-Acuña, J. J., Quintana-Manotas, H. L., **Bermúdez-Rivas, C.**, Castrillón-Valencia, F. A. (2023). Primer registro del género Metadinophysis Nie y Wang (Dinophyceae: Dinophysiales) en áreas costeras del Pacifico colombiano. Biota Colombiana, 24(1). **En Prensa**.
+
 
 ### 2022 
 * Molina-triana, F., **Bermúdez-Rivas, C.**, Parada-Gutíerrez, J. L., & Castrillón, F. A. (2022). Monitoreo de un octocoral invasor (*Carijoa riisei*) en las dos principales áreas portuarias de la cuenca Pacífico Colombiana. Acta Oceanográfica Del Pacífico, 4(2), 21–34. https://doi.org/10.54140/raop.v4i1.56
+
+* Hoyos-Acuña, J. J., Quintana-Manotas, H. L., **Bermúdez-Rivas, C.**, Castrillón-Valencia, F. A. (2023). Primer registro del género Metadinophysis Nie y Wang (Dinophyceae: Dinophysiales) en áreas costeras del Pacífico colombiano. Biota Colombiana, 24(1). 1-15. https://doi.org/10.21068/2539200X.1101
+
 
 
 ### 2021
