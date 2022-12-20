@@ -13,7 +13,7 @@ Expositor:
 Modelo InVest para evaluar el riesgo en los ecosistemas costeros: Maglares
 
 
-* **XIII Congreso Ssociedade Latino Americana de Especialistas em Mamíferos Aquáticos** Conservação na modalidade Comunicação oral na 19ª Reunião de Trabalho, Praia do Forte Bahía, Brasil
+* **XIII Congreso Sociedade Latino Americana de Especialistas em Mamíferos Aquáticos** Conservação na modalidade Comunicação oral na 19ª Reunião de Trabalho, Praia do Forte Bahía, Brasil
 
 ### 2021 
 * **International Congress Harmful Algae 2021** *Virtual Attendance*.
