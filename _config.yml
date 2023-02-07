@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "chrisbermudezr@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  profile.png # Open Graph/Twitter default site image
+og_image                 :  Perfil_Github.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Christian Bermúdez-Rivas"
-  avatar           : "profile.png"
+  avatar           : "Perfil_Github.png"
   bio              : "Biólogo M. Sc. Esp. SIG, 🇨🇴. Interesado en geografía, ecología espacial, biología de la conservación y el estudio de los océanos."
   location         : "Tumaco - Colombia"
   employer         :
