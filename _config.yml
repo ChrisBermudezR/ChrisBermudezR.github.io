@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _portafolio
   - scope:
       path: ""
-      type: portfolio
+      type: portafolio
     values:
       layout: single
       author_profile: true
