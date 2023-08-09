@@ -1,7 +1,7 @@
 ---
 title: 'Instalación del Anaconda *Navigator*'
 date: 2022-06-07
-permalink: /posts/2022/06/Anaconda
+permalink: /posts/2022/06/Anaconda/
 tags:
   - Lenguajes de Programación
   - IDE
