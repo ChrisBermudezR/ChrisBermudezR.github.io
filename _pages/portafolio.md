@@ -1,6 +1,6 @@
 ---
 title: "Portafolio"
-permalink: /portafolio/
+permalink: /portfolio/
 ---
 <iframe src="/files/paper2.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
