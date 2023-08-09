@@ -40,7 +40,7 @@ Anaconda *Navigator* es una Interfaz Gráfica de Usuario (*GUI*) que permite a l
 Las aplicaciones que se pueden encontrar en Anaconda *Navigator* son las siguientes.
 
 - **JupyterLab**: Es un entorno de desarrollo basado en la web con el cual se pueden construir cuadernos de trabajo, código y analizar datos. Con esta herramienta se pueden organizaar flujos de trabajo en ciencia de datos, computación científica y muchas otras cosas.
-- *****Jupyter notebook*****: Es una aplicación que nos permite construir cuadernos para escribir nuestros flujos de análisis.
+- ***Jupyter notebook***: Es una aplicación que nos permite construir cuadernos para escribir nuestros flujos de análisis.
 - **Spyder**: Es un entorno de desarrollo integrado (*IDE*) para programación científica en el lenguaje de **Python**.
 - **Orange**: Es una aplicación para programación visual que se basa fuertemente en la visualización de los datos, *machine learning*, mineria de datos y análisis de datos.
 - **Visual Studio Code**: Esta aplicación es un editor de código fuente con funciones para corrección rápida de sintaxis y puede usarse con el programa de control de versiones **Git**.
@@ -171,11 +171,11 @@ Pkg.add("IJulia")
 ```
 ![](https://www.dropbox.com/s/yx06w651bdp8ffi/Vid07.gif?dl=1)
 
-Una vez instalado el paquete se puede observar en la pestaña *New* del *****Jupyter notebook***** la instalación de Julia y su número de versión.
+Una vez instalado el paquete se puede observar en la pestaña *New* del ***Jupyter notebook*** la instalación de Julia y su número de versión.
 
 ![](https://www.dropbox.com/s/o9agqwg88cs3v8m/Fig07.png?dl=1)
 
-Dándole click a *New* se puede crear un cuaderno de *****Jupyter notebook***** para trabajar con el lenguaje Julia.
+Dándole click a *New* se puede crear un cuaderno de ***Jupyter notebook*** para trabajar con el lenguaje Julia.
 
 ![](https://www.dropbox.com/s/7fmokkyfjb9cq28/Fig08.png?dl=1)
 
