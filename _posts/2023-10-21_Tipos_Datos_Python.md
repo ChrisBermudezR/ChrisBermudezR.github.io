@@ -1,5 +1,5 @@
 ---
-title: "Introducción al Lenguaje :snake: : Tipos de Datos"
+title: "Introducción al Lenguaje Python: Tipos de Datos"
 output:
   md_document:
     variant: gfm+footnotes

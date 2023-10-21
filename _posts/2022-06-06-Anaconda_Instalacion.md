@@ -11,8 +11,6 @@ tags:
 ---
 <img src = "\files\svg\anaconda.svg" alt="Anaconda. " width="50px" height="25px"/> - En este *post* explicaré cómo instalar el Anaconda *Navigator* en Windows y cómo establecer un ambiente de trabajo (*Environment*) y un ***Jupyter notebook*** basado en **Python**, **R** y **Julia**.
 
-
-
 - [Instalación del Anaconda *Navigator* y creación de ambientes (*Environment*) de trabajo.](#instalación-del-anaconda-navigator-y-creación-de-ambientes-environment-de-trabajo)
   - [¿Qué es Anaconda?.](#qué-es-anaconda)
   - [¿Qué es Anaconda *Navigator*?](#qué-es-anaconda-navigator)

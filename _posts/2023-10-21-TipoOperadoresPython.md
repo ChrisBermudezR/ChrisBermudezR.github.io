@@ -1,5 +1,5 @@
 ---
-title: "Introducción al Lenguaje :snake: : Tipos de Operadores"
+title: "Introducción al Lenguaje Python: Tipos de Operadores"
 output:
   md_document:
     variant: gfm+footnotes
