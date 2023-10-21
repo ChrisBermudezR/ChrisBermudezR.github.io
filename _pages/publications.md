@@ -3,6 +3,7 @@ title: "Publicaciones"
 permalink: /publications/
 
 ---
+
 # Artículos Científicos
 
 ### 2023
@@ -50,7 +51,7 @@ permalink: /publications/
 # Libros y Capítulos de Libros
 
 ### 2023
-* 
+* Palacios D., Felix F., Montecinos Y., Najera E., Kelez S., Samaniego J.,Velásquez P., Zapata L, Lancaster M., Friedlaender A.S., Castro C.A., Quintana E., **Bermúdez-Rivas C.**, Cazas JJ., Villamil Echeverri C., Rojas Bracho L., Sepúlveda M.,Medrano-Gonzales L., Santillan L., Aguilar Arakaki R., Pineda, L., Reisinger R., and Johnson C.M. (2023). Blue Corridor of the Eastern Pacific: Opportunities and Actions for the protection of Migratory Whales. A Technical Report. World Wide Fund for Nature (WWF).
 
 ### 2020 
 * **Bermúdez-Rivas, C.**, Aguirre-Tapiero, M. P., & Velasco, J. A. (2020). Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. Compilación Oceanográfica de La Cuenca Pacífica Colombiana II, 231.
