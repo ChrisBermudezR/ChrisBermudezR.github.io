@@ -42,6 +42,7 @@ Los operadores aritméticos en :snake: son:
 |//|división entera|
 |%|residuo de división|
 |**|potencia|
+
 ### Operadores de asignación
 Para asignar valores a variables se pueden utilizar los siguientes
 operadores  infijos.
@@ -62,6 +63,7 @@ x = x + 2 #esto!
 |/=|asignación división|
 |//=|asignación división entera|
 |%=|asignación residuo de división|
+
 ### Operadores lógicos
 Los operadores lógicos permiten realizar secuencias de operaciones que tengan una lógica.
 
@@ -70,6 +72,7 @@ Los operadores lógicos permiten realizar secuencias de operaciones que tengan u
 |¬|not|
 |and|y|
 |or|ó|
+
 ### Operadores de igualdad y relacionales
 
 Los operadores igualdad y relacionales permiten realizar evaluar diferentes valores devolviendo datos booleanos.
