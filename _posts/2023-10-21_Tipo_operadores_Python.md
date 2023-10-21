@@ -6,8 +6,8 @@ output:
     preserve_yaml: TRUE
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: 2023-10-30
-permalink: /posts/2023/10/python
+date: 2023-09-30
+permalink: /posts/2023/09/python
 excerpt_separator: <!--more-->
 toc: true
 tags:
