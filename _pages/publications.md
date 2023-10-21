@@ -5,13 +5,15 @@ permalink: /publications/
 ---
 # Artículos Científicos
 
+### 2023
 
+* Hoyos-Acuña, J. J., Quintana-Manotas, H. L., **Bermúdez-Rivas, C.**, Castrillón-Valencia, F. A. (2023). Primer registro del género Metadinophysis Nie y Wang (Dinophyceae: Dinophysiales) en áreas costeras del Pacífico colombiano. Biota Colombiana, 24(1). 1-15. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://doi.org/10.21068/2539200X.1101)
 
 
 ### 2022 
 * Molina-triana, F., **Bermúdez-Rivas, C.**, Parada-Gutíerrez, J. L., & Castrillón, F. A. (2022). Monitoreo de un octocoral invasor (*Carijoa riisei*) en las dos principales áreas portuarias de la cuenca Pacífico Colombiana. Acta Oceanográfica Del Pacífico, 4(2), 21–34. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://doi.org/10.54140/raop.v4i1.56)
 
-* Hoyos-Acuña, J. J., Quintana-Manotas, H. L., **Bermúdez-Rivas, C.**, Castrillón-Valencia, F. A. (2023). Primer registro del género Metadinophysis Nie y Wang (Dinophyceae: Dinophysiales) en áreas costeras del Pacífico colombiano. Biota Colombiana, 24(1). 1-15. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://doi.org/10.21068/2539200X.1101)
+
 
 
 
@@ -45,7 +47,10 @@ permalink: /publications/
 ### 2005
 * **Bermúdez, C.** (2005). Clave para los imagos de los géneros de Libellulidae (Odonata: Anisotera) del Valle del Cauca, Colombia. Boletín Del Museo de Entomología de La Universidad Del Valle, 6(1), 7–22. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/w9iarmcsr7d8cdw/Bermudez_2005.pdf?dl=0)
 
-# Capítulos de Libros
+# Libros y Capítulos de Libros
+
+### 2023
+* 
 
 ### 2020 
 * **Bermúdez-Rivas, C.**, Aguirre-Tapiero, M. P., & Velasco, J. A. (2020). Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. Compilación Oceanográfica de La Cuenca Pacífica Colombiana II, 231.
