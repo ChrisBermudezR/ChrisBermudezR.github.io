@@ -65,4 +65,21 @@ permalink: /publications/
 
 * Arcila, A., Osorio, A. M., **Bermúdez, C.**, & Chacón De Ulloa, P. (2008). Diversidad de hormigas cazadoras asociadas a los elementos del paisaje del bosque seco. In F. Lozano-Zambrano, F. Fernández, E. Jiménez, & T. Arias (Eds.), Sistemática, biogeografía y conservación de las hormigas cazadoras de Colombia. (pp. 531–552). Instituto de recursos biológicos Alexander von Humboldt. [<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>](https://www.dropbox.com/s/sbw0f2wx916xt7l/Arcila_etal_2008.pdf?dl=0)
 
+## Conjuntos de datos
+
+### 2023
+
+* **Bermúdez-Rivas, C.**,Cuellar Chacón A, Herrera Carmona J C, Reyes J, Quintana
+H, Giraldo A, Moreno Y, Castrillón F, Gallego Zerrato J J, Ortiz Mieles
+L (2023): Diversidad, abundancia y distribución del ictioplancton y su relación
+con las condiciones oceanográficas y los períodos mareales en la subregión
+Sanquianga-Gorgona, frente al delta del río Patía. v1.0. Dirección General
+Marítima. *Sampling event dataset*. [https://doi.org/10.15472/xhfmaj](https://doi.org/10.15472/xhfmaj) GBIF:
+https://www.gbif.org/dataset/68b4a752-48c2-4bb2-8aeb-d34037526b24
+
+* **Bermúdez-Rivas, C.**, Parada J, Moreno Y, Castrillón Valencia F A,
+Ángel B (2023). Presencia de Vibrio spp en la subregión Sanquianga-
+Gorgona y su relación con las condiciones hidrográficas. Dirección General
+Marítima. *Sampling event dataset* [https://doi.org/10.15472/c4hck5]()
+
 <img src="Banner02.png" style="width: 100%" />
