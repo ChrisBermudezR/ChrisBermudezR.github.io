@@ -80,6 +80,6 @@ https://www.gbif.org/dataset/68b4a752-48c2-4bb2-8aeb-d34037526b24
 * **Bermúdez-Rivas, C.**, Parada J, Moreno Y, Castrillón Valencia F A,
 Ángel B (2023). Presencia de Vibrio spp en la subregión Sanquianga-
 Gorgona y su relación con las condiciones hidrográficas. Dirección General
-Marítima. *Sampling event dataset* [https://doi.org/10.15472/c4hck5]()
+Marítima. *Sampling event dataset* [https://doi.org/10.15472/c4hck5](https://doi.org/10.15472/c4hck5)
 
 <img src="Banner02.png" style="width: 100%" />
